@@ -1,0 +1,29 @@
+[
+  {
+    "code": "ADM-9FGUKNY2",
+    "type": "admin",
+    "used": false,
+    "usedBy": null,
+    "usedAt": null,
+    "createdBy": "u_owner",
+    "created_at": "2026-06-15T11:46:28.678Z"
+  },
+  {
+    "code": "USR-H6GG7LJV",
+    "type": "user",
+    "used": false,
+    "usedBy": null,
+    "usedAt": null,
+    "createdBy": "u_owner",
+    "created_at": "2026-06-15T11:46:32.576Z"
+  },
+  {
+    "code": "ADM-BZ50SQIV",
+    "type": "admin",
+    "used": false,
+    "usedBy": null,
+    "usedAt": null,
+    "createdBy": "owner_001",
+    "created_at": "2026-06-17T13:22:34.582Z"
+  }
+]
