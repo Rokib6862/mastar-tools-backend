@@ -1,0 +1,104 @@
+[
+  {
+    "_id": "t1787311687726_3kadn4",
+    "trustId": "t1787311687726_3kadn4",
+    "archivedAt": "2026-08-21T11:28:07.726Z",
+    "deletedBy": "system_auto",
+    "deletedByRole": "owner",
+    "ownerId": "owner",
+    "userId": null,
+    "cycleId": "cycle_1787298363697",
+    "sessionId": "s1787301779874_9vdqyr",
+    "visitorId": "v_1786107878189_xydsaq",
+    "trackingCode": "invite",
+    "snapshot": {
+      "deviceType": "Desktop",
+      "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0",
+      "ip": "127.0.0.1",
+      "clicks": 2,
+      "submissionsCount": 0,
+      "submissions": [],
+      "formData": {},
+      "collectedTypes": [
+        "visit",
+        "session_init",
+        "heartbeat"
+      ],
+      "lockedKeys": [],
+      "firstSeen": "2026-08-21T08:42:59.874Z",
+      "lastActivity": "2026-08-21T11:18:30.307Z",
+      "entryUrl": "invite",
+      "currentUrl": "invite",
+      "commandSeq": 0,
+      "identitySource": "composite"
+    }
+  },
+  {
+    "_id": "t1787318261991_b0erl0",
+    "trustId": "t1787318261991_b0erl0",
+    "archivedAt": "2026-08-21T13:17:41.991Z",
+    "deletedBy": "system_auto",
+    "deletedByRole": "owner",
+    "ownerId": "owner",
+    "userId": null,
+    "cycleId": "cycle_1787298363697",
+    "sessionId": "s1787317815896_17p5tr",
+    "visitorId": "v_1786107878189_xydsaq",
+    "trackingCode": "invite",
+    "snapshot": {
+      "deviceType": "Desktop",
+      "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0",
+      "ip": "127.0.0.1",
+      "clicks": 7,
+      "submissionsCount": 0,
+      "submissions": [],
+      "formData": {},
+      "collectedTypes": [
+        "visit",
+        "session_init",
+        "heartbeat"
+      ],
+      "lockedKeys": [],
+      "firstSeen": "2026-08-21T13:10:15.896Z",
+      "lastActivity": "2026-08-21T13:16:56.966Z",
+      "entryUrl": "invite",
+      "currentUrl": "http://localhost:3000/invite/rokib001_9427hn",
+      "commandSeq": 4,
+      "identitySource": "composite"
+    }
+  },
+  {
+    "_id": "t1787318261992_o20sgk",
+    "trustId": "t1787318261992_o20sgk",
+    "archivedAt": "2026-08-21T13:17:41.992Z",
+    "deletedBy": "system_auto",
+    "deletedByRole": "owner",
+    "ownerId": "owner",
+    "userId": null,
+    "cycleId": "cycle_1787298363697",
+    "sessionId": "s1787313922453_nm6s2g",
+    "visitorId": "v_1786107878189_xydsaq",
+    "trackingCode": "verify",
+    "snapshot": {
+      "deviceType": "Desktop",
+      "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0",
+      "ip": "127.0.0.1",
+      "clicks": 6,
+      "submissionsCount": 0,
+      "submissions": [],
+      "formData": {},
+      "collectedTypes": [
+        "visit",
+        "session_init",
+        "heartbeat"
+      ],
+      "lockedKeys": [],
+      "firstSeen": "2026-08-21T12:05:22.453Z",
+      "lastActivity": "2026-08-21T13:09:23.319Z",
+      "entryUrl": "verify",
+      "currentUrl": "verify",
+      "commandSeq": 3,
+      "identitySource": "composite"
+    }
+  }
+]

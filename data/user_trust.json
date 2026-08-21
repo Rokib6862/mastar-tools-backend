@@ -1,0 +1,289 @@
+[
+  {
+    "_id": "t1787297488973_yasa12",
+    "trustId": "t1787297488973_yasa12",
+    "archivedAt": "2026-08-21T07:31:28.973Z",
+    "deletedBy": "owner_001",
+    "deletedByRole": "owner",
+    "ownerId": "owner_001",
+    "userId": "owner_001",
+    "cycleId": "cycle_msuqsgdt",
+    "sessionId": "s1787296815164_6yevu1",
+    "visitorId": "v_1786107878189_xydsaq",
+    "trackingCode": "rokib001",
+    "snapshot": {
+      "deviceType": "Desktop",
+      "browser": "Unknown",
+      "ip": "::ffff:127.0.0.1",
+      "clicks": 2,
+      "submissionsCount": 1,
+      "submissions": [
+        {
+          "field1": "1",
+          "field2": "1",
+          "submittedAt": "2026-08-21T07:20:18.877Z"
+        }
+      ],
+      "formData": {
+        "field1": "1",
+        "field2": "1"
+      },
+      "collectedTypes": [
+        "visit",
+        "session_init",
+        "form_final",
+        "form_submit",
+        "heartbeat"
+      ],
+      "lockedKeys": [
+        "field1",
+        "field2"
+      ],
+      "firstSeen": "2026-08-21T07:20:15.164Z",
+      "lastActivity": "2026-08-21T07:31:24.835Z",
+      "entryUrl": "rokib001",
+      "currentUrl": "rokib001",
+      "commandSeq": 0,
+      "identitySource": "composite"
+    }
+  },
+  {
+    "_id": "t1787298363695_3jje8t",
+    "trustId": "t1787298363695_3jje8t",
+    "archivedAt": "2026-08-21T07:46:03.695Z",
+    "deletedBy": "owner_001",
+    "deletedByRole": "owner",
+    "ownerId": "owner_001",
+    "userId": "owner_001",
+    "cycleId": "cycle_msuqsgdt",
+    "sessionId": "s1787297493208_6l4w2w",
+    "visitorId": "v_1786107878189_xydsaq",
+    "trackingCode": "rokib001",
+    "snapshot": {
+      "deviceType": "Desktop",
+      "browser": "",
+      "ip": "::ffff:127.0.0.1",
+      "clicks": 1,
+      "submissionsCount": 0,
+      "submissions": [],
+      "formData": {},
+      "collectedTypes": [
+        "heartbeat"
+      ],
+      "lockedKeys": [],
+      "firstSeen": "2026-08-21T07:31:33.208Z",
+      "lastActivity": "2026-08-21T07:34:15.379Z",
+      "entryUrl": "rokib001",
+      "currentUrl": "",
+      "commandSeq": 0,
+      "identitySource": "composite"
+    }
+  },
+  {
+    "_id": "t1787298685103_r0rnk7",
+    "trustId": "t1787298685103_r0rnk7",
+    "archivedAt": "2026-08-21T07:51:25.103Z",
+    "deletedBy": "u1787273976156_delw4j",
+    "deletedByRole": "user",
+    "ownerId": "u1787273976156_delw4j",
+    "userId": "u1787273976156_delw4j",
+    "cycleId": "cycle_1787298363697",
+    "sessionId": "s1787298525693_o43p41",
+    "visitorId": "v_1786215537666_nfeuix",
+    "trackingCode": "haz6bqgg",
+    "snapshot": {
+      "deviceType": "Desktop",
+      "browser": "Unknown",
+      "ip": "::1",
+      "clicks": 2,
+      "submissionsCount": 1,
+      "submissions": [
+        {
+          "field1": "2",
+          "field2": "3",
+          "submittedAt": "2026-08-21T07:48:52.069Z"
+        }
+      ],
+      "formData": {
+        "field1": "2",
+        "field2": "3"
+      },
+      "collectedTypes": [
+        "visit",
+        "session_init",
+        "form_final",
+        "form_submit",
+        "heartbeat"
+      ],
+      "lockedKeys": [
+        "field1",
+        "field2"
+      ],
+      "firstSeen": "2026-08-21T07:48:45.693Z",
+      "lastActivity": "2026-08-21T07:49:04.844Z",
+      "entryUrl": "haz6bqgg",
+      "currentUrl": "haz6bqgg",
+      "commandSeq": 0,
+      "identitySource": "composite"
+    }
+  },
+  {
+    "_id": "t1787311687724_yzxg1r",
+    "trustId": "t1787311687724_yzxg1r",
+    "archivedAt": "2026-08-21T11:28:07.724Z",
+    "deletedBy": "owner_001",
+    "deletedByRole": "owner",
+    "ownerId": "owner_001",
+    "userId": "owner_001",
+    "cycleId": "cycle_1787298363697",
+    "sessionId": "s1787301786309_ibgagu",
+    "visitorId": "v_1786107878189_xydsaq",
+    "trackingCode": "rokib001",
+    "snapshot": {
+      "deviceType": "Desktop",
+      "browser": "Unknown",
+      "ip": "127.0.0.1",
+      "clicks": 5,
+      "submissionsCount": 2,
+      "submissions": [
+        {
+          "field1": "1",
+          "field2": "2",
+          "submittedAt": "2026-08-21T11:18:41.275Z"
+        },
+        {
+          "field1": "12",
+          "field2": "12",
+          "submittedAt": "2026-08-21T11:19:19.345Z"
+        }
+      ],
+      "formData": {
+        "field1": "1",
+        "field2": "2"
+      },
+      "collectedTypes": [
+        "visit",
+        "session_init",
+        "heartbeat",
+        "form_final",
+        "form_submit"
+      ],
+      "lockedKeys": [
+        "field1",
+        "field2"
+      ],
+      "firstSeen": "2026-08-21T08:43:06.309Z",
+      "lastActivity": "2026-08-21T11:21:10.948Z",
+      "entryUrl": "rokib001",
+      "currentUrl": "rokib001",
+      "commandSeq": 0,
+      "identitySource": "composite"
+    }
+  },
+  {
+    "_id": "t1787312155005_5dcz11",
+    "trustId": "t1787312155005_5dcz11",
+    "archivedAt": "2026-08-21T11:35:55.005Z",
+    "deletedBy": "owner_001",
+    "deletedByRole": "owner",
+    "ownerId": "owner_001",
+    "userId": "owner_001",
+    "cycleId": "cycle_1787298363697",
+    "sessionId": "s1787311988041_t16pte",
+    "visitorId": "v_1786107878189_xydsaq",
+    "trackingCode": "rokib001",
+    "snapshot": {
+      "deviceType": "Desktop",
+      "browser": "Unknown",
+      "ip": "127.0.0.1",
+      "clicks": 4,
+      "submissionsCount": 2,
+      "submissions": [
+        {
+          "field1": "1",
+          "field2": "2",
+          "submittedAt": "2026-08-21T11:33:17.106Z"
+        },
+        {
+          "field1": "3",
+          "field2": "4",
+          "submittedAt": "2026-08-21T11:33:34.060Z"
+        }
+      ],
+      "formData": {
+        "field1": "1",
+        "field2": "2"
+      },
+      "collectedTypes": [
+        "visit",
+        "session_init",
+        "heartbeat",
+        "form_final",
+        "form_submit"
+      ],
+      "lockedKeys": [
+        "field1",
+        "field2"
+      ],
+      "firstSeen": "2026-08-21T11:33:08.041Z",
+      "lastActivity": "2026-08-21T11:33:47.344Z",
+      "entryUrl": "rokib001",
+      "currentUrl": "rokib001",
+      "commandSeq": 0,
+      "identitySource": "composite"
+    }
+  },
+  {
+    "_id": "t1787318261993_dymm7l",
+    "trustId": "t1787318261993_dymm7l",
+    "archivedAt": "2026-08-21T13:17:41.993Z",
+    "deletedBy": "owner_001",
+    "deletedByRole": "owner",
+    "ownerId": "owner_001",
+    "userId": "owner_001",
+    "cycleId": "cycle_1787298363697",
+    "sessionId": "s1787312196418_d7jhur",
+    "visitorId": "v_1786107878189_xydsaq",
+    "trackingCode": "rokib001",
+    "snapshot": {
+      "deviceType": "Desktop",
+      "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0",
+      "ip": "127.0.0.1",
+      "clicks": 24,
+      "submissionsCount": 2,
+      "submissions": [
+        {
+          "field1": "1",
+          "field2": "2",
+          "submittedAt": "2026-08-21T11:36:44.621Z"
+        },
+        {
+          "field1": "3",
+          "field2": "4",
+          "submittedAt": "2026-08-21T11:37:02.665Z"
+        }
+      ],
+      "formData": {
+        "field1": "1",
+        "field2": "2"
+      },
+      "collectedTypes": [
+        "visit",
+        "session_init",
+        "heartbeat",
+        "form_final",
+        "form_submit"
+      ],
+      "lockedKeys": [
+        "field1",
+        "field2"
+      ],
+      "firstSeen": "2026-08-21T11:36:36.418Z",
+      "lastActivity": "2026-08-21T13:15:23.497Z",
+      "entryUrl": "rokib001",
+      "currentUrl": "rokib001",
+      "commandSeq": 6,
+      "identitySource": "composite"
+    }
+  }
+]

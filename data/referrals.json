@@ -1,0 +1,32 @@
+[
+  {
+    "token": "REF-H6GG7LJV",
+    "link": "http://localhost:5173/login?ref=REF-H6GG7LJV",
+    "type": "user",
+    "used": false,
+    "usedBy": null,
+    "usedAt": null,
+    "createdBy": "u_owner",
+    "created_at": "2026-06-15T11:46:32.576Z"
+  },
+  {
+    "token": "REF-TU9BUZKX",
+    "link": "http://localhost:5173/login?ref=REF-TU9BUZKX",
+    "type": "user",
+    "used": false,
+    "usedBy": null,
+    "usedAt": null,
+    "createdBy": "owner_001",
+    "created_at": "2026-08-20T22:32:54.916Z"
+  },
+  {
+    "token": "REF-YCZ2BYHL",
+    "link": "http://localhost:5173/login?ref=REF-YCZ2BYHL",
+    "type": "user",
+    "used": false,
+    "usedBy": null,
+    "usedAt": null,
+    "createdBy": "owner_001",
+    "created_at": "2026-08-20T22:33:11.873Z"
+  }
+]
