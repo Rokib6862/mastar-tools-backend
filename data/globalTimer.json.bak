@@ -1,0 +1,14 @@
+[
+  {
+    "cycleStart": 1787731292788,
+    "cycleEnd": 1787817692788,
+    "lastCleanupAt": "2026-08-26T08:01:32.782Z",
+    "cleanupInProgress": true
+  },
+  {
+    "cycleStart": 1787731292788,
+    "cycleEnd": 1787817692788,
+    "lastCleanupAt": "2026-08-26T08:01:32.782Z",
+    "cleanupInProgress": false
+  }
+]

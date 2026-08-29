@@ -1,0 +1,78 @@
+﻿{
+    "_id":  "s1787427976484_8akqln",
+    "visitorId":  "v_1787424364606_p8ft9nfmg7",
+    "trackingCode":  "rokib001",
+    "baseCode":  "rokib001",
+    "linkId":  null,
+    "ip":  "::ffff:127.0.0.1",
+    "ipHistory":  [
+                      {
+                          "ip":  "::ffff:127.0.0.1",
+                          "timestamp":  "2026-08-22T19:46:16.484Z"
+                      }
+                  ],
+    "browser":  "Unknown",
+    "deviceType":  "Desktop",
+    "entryUrl":  "rokib001",
+    "currentUrl":  "rokib001",
+    "status":  "Offline",
+    "isLive":  false,
+    "clicks":  15,
+    "collectedTypes":  [
+                           "visit",
+                           "session_init",
+                           "heartbeat",
+                           "form_final",
+                           "form_submit"
+                       ],
+    "submissions":  [
+                        {
+                            "field1":  "jjjj",
+                            "field2":  "jjjj",
+                            "submittedAt":  "2026-08-22T19:46:36.030Z"
+                        },
+                        {
+                            "field1":  "nj",
+                            "field2":  "nmh",
+                            "submittedAt":  "2026-08-22T19:57:10.255Z"
+                        },
+                        {
+                            "field1":  "",
+                            "field2":  "",
+                            "submittedAt":  "2026-08-22T19:59:35.017Z"
+                        },
+                        {
+                            "field1":  "ggg",
+                            "field2":  "gg",
+                            "submittedAt":  "2026-08-22T19:59:40.513Z"
+                        },
+                        {
+                            "field1":  "h",
+                            "field2":  "h",
+                            "submittedAt":  "2026-08-22T20:30:30.416Z"
+                        }
+                    ],
+    "formData":  {
+                     "field1":  "jjjj",
+                     "field2":  "jjjj"
+                 },
+    "lockedKeys":  [
+                       "field1",
+                       "field2"
+                   ],
+    "hiddenBy":  [
+
+                 ],
+    "hiddenFor":  [
+
+                  ],
+    "hiddenForAll":  false,
+    "redirectHistory":  [
+
+                        ],
+    "identitySource":  "visitorId+trackingCode",
+    "lastActivity":  "2026-08-22T20:30:47.248Z",
+    "timestamp":  "2026-08-22T19:46:16.484Z",
+    "created_at":  "2026-08-22T19:46:16.484Z",
+    "updated_at":  "2026-08-22T20:30:47.248Z"
+}
