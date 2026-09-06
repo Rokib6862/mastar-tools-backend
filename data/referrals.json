@@ -1,0 +1,159 @@
+[
+  {
+    "code": "USR-9FGUKNY2",
+    "type": "user",
+    "used": false,
+    "usedBy": null,
+    "usedAt": null,
+    "createdBy": "u_owner",
+    "created_at": "2026-06-15T11:46:28.678Z"
+  },
+  {
+    "code": "USR-H6GG7LJV",
+    "type": "user",
+    "used": false,
+    "usedBy": null,
+    "usedAt": null,
+    "createdBy": "u_owner",
+    "created_at": "2026-06-15T11:46:32.576Z"
+  },
+  {
+    "code": "USR-BZ50SQIV",
+    "type": "user",
+    "used": false,
+    "usedBy": null,
+    "usedAt": null,
+    "createdBy": "owner_001",
+    "created_at": "2026-06-17T13:22:34.582Z"
+  },
+  {
+    "code": "USR-3CVG07U9",
+    "type": "user",
+    "used": false,
+    "usedBy": null,
+    "usedAt": null,
+    "createdBy": "owner_001",
+    "created_at": "2026-08-01T17:31:39.167Z"
+  },
+  {
+    "code": "OWN-D9N1LCHY",
+    "type": "owner",
+    "used": false,
+    "usedBy": null,
+    "usedAt": null,
+    "createdBy": "owner_001",
+    "created_at": "2026-08-01T17:36:16.311Z"
+  },
+  {
+    "code": "USR-HRN4TSCB",
+    "type": "user",
+    "used": false,
+    "usedBy": null,
+    "usedAt": null,
+    "createdBy": "owner_001",
+    "created_at": "2026-08-01T17:36:19.845Z"
+  },
+  {
+    "code": "USR-JOQBPG8J",
+    "type": "user",
+    "used": false,
+    "usedBy": null,
+    "usedAt": null,
+    "createdBy": "owner_001",
+    "created_at": "2026-08-01T18:05:58.893Z"
+  },
+  {
+    "code": "USR-T5UOSM7R",
+    "type": "user",
+    "used": true,
+    "usedBy": "u_1785615643644",
+    "usedAt": "2026-08-01T20:20:43.645Z",
+    "createdBy": "owner_001",
+    "created_at": "2026-08-01T20:20:39.346Z"
+  },
+  {
+    "code": "USR-NAQEZ68I",
+    "type": "user",
+    "used": false,
+    "usedBy": null,
+    "usedAt": null,
+    "createdBy": "owner_001",
+    "created_at": "2026-08-01T20:24:34.650Z"
+  },
+  {
+    "code": "USR-AHT1MV43",
+    "type": "user",
+    "used": false,
+    "usedBy": null,
+    "usedAt": null,
+    "createdBy": "owner_001",
+    "created_at": "2026-08-01T20:28:41.209Z"
+  },
+  {
+    "code": "USR-ZKVCYH53",
+    "type": "user",
+    "used": false,
+    "usedBy": null,
+    "usedAt": null,
+    "createdBy": "owner_001",
+    "created_at": "2026-08-01T20:37:50.340Z"
+  },
+  {
+    "code": "USR-N5LKTTYM",
+    "type": "user",
+    "used": true,
+    "usedBy": "u1785616656597_baj9mz",
+    "usedAt": "2026-08-01T20:39:11.807Z",
+    "createdBy": "owner_001",
+    "created_at": "2026-08-01T20:39:07.240Z"
+  },
+  {
+    "code": "OWN-W5AMYV1X",
+    "type": "owner",
+    "used": false,
+    "usedBy": null,
+    "usedAt": null,
+    "createdBy": "owner_001",
+    "created_at": "2026-08-21T17:49:28.752Z"
+  },
+  {
+    "token": "REF-GZEFEF0K",
+    "link": "http://localhost:5173/login?ref=REF-GZEFEF0K",
+    "type": "user",
+    "used": false,
+    "usedBy": null,
+    "usedAt": null,
+    "createdBy": "owner_001",
+    "created_at": "2026-08-21T18:03:21.074Z"
+  },
+  {
+    "token": "REF-0LH24Z71",
+    "link": "http://localhost:5173/login?ref=REF-0LH24Z71",
+    "type": "user",
+    "used": true,
+    "usedBy": "u_1787391973785",
+    "usedAt": "2026-08-22T09:46:13.785Z",
+    "createdBy": "owner_001",
+    "created_at": "2026-08-21T18:11:47.280Z"
+  },
+  {
+    "token": "REF-HPCZDFS6",
+    "link": "http://localhost:5173/login?ref=REF-HPCZDFS6",
+    "type": "user",
+    "used": true,
+    "usedBy": "u_1787372376128",
+    "usedAt": "2026-08-22T04:19:36.128Z",
+    "createdBy": "owner_001",
+    "created_at": "2026-08-21T18:12:01.717Z"
+  },
+  {
+    "token": "REF-ZKTN5HGL",
+    "link": "http://localhost:5173/login?ref=REF-ZKTN5HGL",
+    "type": "user",
+    "used": true,
+    "usedBy": "u_1787338919831",
+    "usedAt": "2026-08-21T19:01:59.831Z",
+    "createdBy": "owner_001",
+    "created_at": "2026-08-21T18:37:09.566Z"
+  }
+]

@@ -1,0 +1,1608 @@
+[
+  {
+    "_id": "owner_trash_s1787917707107_5mp58q_u1782700000003_ghi003",
+    "visitorId": "test_visitor_200",
+    "trackingCode": "rokib001",
+    "ownerCode": "rokib001",
+    "baseCode": "test2",
+    "linkId": null,
+    "ip": "127.0.0.1",
+    "ipHistory": [
+      {
+        "ip": "127.0.0.1",
+        "timestamp": "2026-08-28T11:48:27.107Z"
+      }
+    ],
+    "browser": "Test Browser 2",
+    "deviceType": "Mobile",
+    "entryUrl": "test2",
+    "currentUrl": "",
+    "status": "Online",
+    "isLive": true,
+    "clicks": 1,
+    "collectedTypes": [
+      "visit"
+    ],
+    "submissions": [],
+    "formData": {},
+    "lockedKeys": [],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "seenBy": [],
+    "redirectHistory": [],
+    "identitySource": "created",
+    "lastActivity": "2026-08-28T11:48:27.107Z",
+    "timestamp": "2026-08-28T11:48:27.107Z",
+    "created_at": "2026-08-28T11:48:27.107Z",
+    "expiresAt": "2026-08-29T11:48:27.107Z",
+    "updated_at": "2026-08-28T11:48:27.107Z",
+    "originalId": "s1787917707107_5mp58q",
+    "deletedBy": "u1782700000003_ghi003",
+    "deletedAt": "2026-08-28T11:48:27.119Z",
+    "permanentlyDeleted": false
+  },
+  {
+    "_id": "owner_trash_s1787917707109_1hl062_u1782700000003_ghi003",
+    "visitorId": "test_visitor_300",
+    "trackingCode": "nrrg59z8",
+    "ownerCode": "nrrg59z8",
+    "baseCode": "test3",
+    "linkId": null,
+    "ip": "127.0.0.1",
+    "ipHistory": [
+      {
+        "ip": "127.0.0.1",
+        "timestamp": "2026-08-28T11:48:27.109Z"
+      }
+    ],
+    "browser": "Test Browser 3",
+    "deviceType": "Desktop",
+    "entryUrl": "test3",
+    "currentUrl": "",
+    "status": "Online",
+    "isLive": true,
+    "clicks": 1,
+    "collectedTypes": [
+      "visit"
+    ],
+    "submissions": [],
+    "formData": {},
+    "lockedKeys": [],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "seenBy": [],
+    "redirectHistory": [],
+    "identitySource": "created",
+    "lastActivity": "2026-08-28T11:48:27.109Z",
+    "timestamp": "2026-08-28T11:48:27.109Z",
+    "created_at": "2026-08-28T11:48:27.109Z",
+    "expiresAt": "2026-08-29T11:48:27.110Z",
+    "updated_at": "2026-08-28T11:48:27.109Z",
+    "originalId": "s1787917707109_1hl062",
+    "deletedBy": "u1782700000003_ghi003",
+    "deletedAt": "2026-08-28T11:48:27.119Z",
+    "permanentlyDeleted": false
+  },
+  {
+    "_id": "owner_trash_s1787736944550_c4g6rv_u1782700000003_ghi003",
+    "visitorId": "v_1787424364606_p8ft9nfmg7",
+    "trackingCode": "nn",
+    "baseCode": "nn",
+    "linkId": null,
+    "ip": "127.0.0.1",
+    "ipHistory": [
+      {
+        "ip": "127.0.0.1",
+        "timestamp": "2026-08-26T09:35:44.550Z"
+      }
+    ],
+    "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0",
+    "deviceType": "Desktop",
+    "entryUrl": "nn",
+    "currentUrl": "nn",
+    "status": "Offline",
+    "isLive": false,
+    "clicks": 6,
+    "collectedTypes": [
+      "heartbeat",
+      "visit",
+      "session_init"
+    ],
+    "submissions": [],
+    "formData": {},
+    "lockedKeys": [],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "redirectHistory": [
+      {
+        "action": "navigate",
+        "url": "https://lucent-muffin-3d1e39.netlify.app/rokib001_25f4tt?vid=v_1787424364606_p8ft9nfmg7",
+        "message": "",
+        "seq": 1,
+        "timestamp": "2026-08-26T10:20:47.500Z"
+      },
+      {
+        "action": "navigate",
+        "url": "https://lucent-muffin-3d1e39.netlify.app/rokib001_25f4tt?vid=v_1787424364606_p8ft9nfmg7",
+        "message": "",
+        "seq": 2,
+        "timestamp": "2026-08-26T14:53:40.021Z"
+      }
+    ],
+    "identitySource": "visitorId+trackingCode",
+    "lastActivity": "2026-08-26T17:57:51.380Z",
+    "timestamp": "2026-08-26T09:35:44.550Z",
+    "created_at": "2026-08-26T09:35:44.550Z",
+    "updated_at": "2026-08-26T17:58:02.452Z",
+    "commandSeq": 2,
+    "lastCommand": "navigate",
+    "lastCommandUrl": "https://lucent-muffin-3d1e39.netlify.app/rokib001_25f4tt?vid=v_1787424364606_p8ft9nfmg7",
+    "lastMessage": "",
+    "pendingCommand": {
+      "action": "navigate",
+      "url": "https://lucent-muffin-3d1e39.netlify.app/rokib001_25f4tt?vid=v_1787424364606_p8ft9nfmg7",
+      "message": "",
+      "seq": 2,
+      "timestamp": "2026-08-26T14:53:40.021Z",
+      "expiresAt": "2026-08-26T14:54:40.021Z"
+    },
+    "originalId": "s1787736944550_c4g6rv",
+    "deletedBy": "u1782700000003_ghi003",
+    "deletedAt": "2026-08-28T11:41:44.295Z",
+    "permanentlyDeleted": false
+  },
+  {
+    "_id": "owner_trash_s1787736982302_0gfsdr_u1782700000003_ghi003",
+    "visitorId": "v_1785664778831_ym2bcl",
+    "trackingCode": "index.html",
+    "baseCode": "",
+    "linkId": null,
+    "ip": "127.0.0.1",
+    "ipHistory": [
+      {
+        "ip": "127.0.0.1",
+        "timestamp": "2026-08-26T09:36:22.302Z"
+      }
+    ],
+    "browser": "",
+    "deviceType": "Desktop",
+    "entryUrl": "",
+    "currentUrl": "",
+    "status": "Offline",
+    "isLive": false,
+    "clicks": 1,
+    "collectedTypes": [
+      "heartbeat"
+    ],
+    "submissions": [],
+    "formData": {},
+    "lockedKeys": [],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "redirectHistory": [],
+    "identitySource": "visitorId+trackingCode",
+    "lastActivity": "2026-08-26T10:20:02.919Z",
+    "timestamp": "2026-08-26T09:36:22.302Z",
+    "created_at": "2026-08-26T09:36:22.302Z",
+    "updated_at": "2026-08-26T10:20:14.708Z",
+    "originalId": "s1787736982302_0gfsdr",
+    "deletedBy": "u1782700000003_ghi003",
+    "deletedAt": "2026-08-28T11:41:44.295Z",
+    "permanentlyDeleted": false
+  },
+  {
+    "_id": "owner_trash_s1787765785225_sj4zly_u1782700000003_ghi003",
+    "visitorId": "v_1783441073146_h6l8",
+    "trackingCode": "index.html",
+    "baseCode": "index.html",
+    "linkId": null,
+    "ip": "127.0.0.1",
+    "ipHistory": [
+      {
+        "ip": "127.0.0.1",
+        "timestamp": "2026-08-26T17:36:25.224Z"
+      }
+    ],
+    "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+    "deviceType": "Desktop",
+    "entryUrl": "index.html",
+    "currentUrl": "index.html",
+    "status": "Offline",
+    "isLive": false,
+    "clicks": 1,
+    "collectedTypes": [
+      "visit",
+      "session_init",
+      "heartbeat"
+    ],
+    "submissions": [],
+    "formData": {},
+    "lockedKeys": [],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "redirectHistory": [],
+    "identitySource": "visitorId+trackingCode",
+    "lastActivity": "2026-08-26T17:36:30.068Z",
+    "timestamp": "2026-08-26T17:36:25.224Z",
+    "created_at": "2026-08-26T17:36:25.224Z",
+    "updated_at": "2026-08-26T17:36:41.666Z",
+    "originalId": "s1787765785225_sj4zly",
+    "deletedBy": "u1782700000003_ghi003",
+    "deletedAt": "2026-08-28T11:41:44.295Z",
+    "permanentlyDeleted": false
+  },
+  {
+    "_id": "owner_trash_s1787766679687_srwlcc_u1782700000003_ghi003",
+    "visitorId": "v_1787766679682_arxhglwd0t",
+    "trackingCode": "p",
+    "baseCode": "p",
+    "linkId": null,
+    "ip": "127.0.0.1",
+    "ipHistory": [
+      {
+        "ip": "127.0.0.1",
+        "timestamp": "2026-08-26T17:51:19.687Z"
+      }
+    ],
+    "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0",
+    "deviceType": "Desktop",
+    "entryUrl": "p",
+    "currentUrl": "p",
+    "status": "Offline",
+    "isLive": false,
+    "clicks": 40,
+    "collectedTypes": [
+      "visit",
+      "session_init",
+      "form_final",
+      "form_submit",
+      "heartbeat"
+    ],
+    "submissions": [
+      {
+        "field1": "44",
+        "field2": "44",
+        "submittedAt": "2026-08-26T17:51:24.572Z"
+      },
+      {
+        "field1": "1",
+        "field2": "2",
+        "submittedAt": "2026-08-26T17:53:33.087Z"
+      },
+      {
+        "field1": "1",
+        "field2": "2",
+        "submittedAt": "2026-08-26T17:58:02.201Z"
+      },
+      {
+        "field1": "test",
+        "field2": "test ",
+        "submittedAt": "2026-08-26T18:14:49.530Z"
+      },
+      {
+        "field1": "11",
+        "field2": "11",
+        "submittedAt": "2026-08-26T18:16:32.430Z"
+      },
+      {
+        "field1": "k",
+        "field2": ";",
+        "submittedAt": "2026-08-26T19:09:51.669Z"
+      }
+    ],
+    "formData": {
+      "field1": "44",
+      "field2": "44"
+    },
+    "lockedKeys": [
+      "field1",
+      "field2"
+    ],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "redirectHistory": [
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3000/rokib001_uf26gy?vid=v_1787766679682_arxhglwd0t&msg=12",
+        "message": "12",
+        "seq": 1,
+        "timestamp": "2026-08-26T17:53:40.818Z"
+      },
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3000/rokib001_bzudyd?vid=v_1787766679682_arxhglwd0t&msg=12",
+        "message": "12",
+        "seq": 2,
+        "timestamp": "2026-08-26T17:58:10.641Z"
+      },
+      {
+        "action": "navigate",
+        "url": "https://joyful-panda-dbfe76.netlify.app/rokib001_hhjder?vid=v_1787766679682_arxhglwd0t",
+        "message": "",
+        "seq": 3,
+        "timestamp": "2026-08-26T17:58:26.653Z"
+      },
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3000/1/rokib001_wdf5e6?vid=v_1787766679682_arxhglwd0t&msg=41",
+        "message": "41",
+        "seq": 4,
+        "timestamp": "2026-08-26T18:06:03.072Z"
+      },
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3000/1/rokib001_wdf5e6?vid=v_1787766679682_arxhglwd0t&msg=24",
+        "message": "24",
+        "seq": 5,
+        "timestamp": "2026-08-26T18:06:14.851Z"
+      },
+      {
+        "action": "navigate+message",
+        "url": "https://courageous-strudel-f60d6d.netlify.app/rokib001_8vvrwq?vid=v_1787766679682_arxhglwd0t&msg=25",
+        "message": "25",
+        "seq": 6,
+        "timestamp": "2026-08-26T18:15:03.921Z"
+      },
+      {
+        "action": "navigate+message",
+        "url": "https://courageous-strudel-f60d6d.netlify.app/rokib001_8vvrwq?vid=v_1787766679682_arxhglwd0t&msg=14",
+        "message": "14",
+        "seq": 7,
+        "timestamp": "2026-08-26T18:16:41.390Z"
+      },
+      {
+        "action": "navigate+message",
+        "url": "https://magnificent-lollipop-1a04ec.netlify.app/rokib001_xqwcrq?vid=v_1787766679682_arxhglwd0t&msg=24",
+        "message": "24",
+        "seq": 8,
+        "timestamp": "2026-08-26T19:10:04.135Z"
+      }
+    ],
+    "identitySource": "visitorId+trackingCode",
+    "lastActivity": "2026-08-26T19:38:17.917Z",
+    "timestamp": "2026-08-26T17:51:19.687Z",
+    "created_at": "2026-08-26T17:51:19.687Z",
+    "updated_at": "2026-08-26T19:38:28.778Z",
+    "commandSeq": 8,
+    "lastCommand": "navigate+message",
+    "lastCommandUrl": "https://magnificent-lollipop-1a04ec.netlify.app/rokib001_xqwcrq?vid=v_1787766679682_arxhglwd0t&msg=24",
+    "lastMessage": "24",
+    "pendingCommand": {
+      "action": "navigate+message",
+      "url": "https://magnificent-lollipop-1a04ec.netlify.app/rokib001_xqwcrq?vid=v_1787766679682_arxhglwd0t&msg=24",
+      "message": "24",
+      "seq": 8,
+      "timestamp": "2026-08-26T19:10:04.136Z",
+      "expiresAt": "2026-08-26T19:11:04.136Z"
+    },
+    "originalId": "s1787766679687_srwlcc",
+    "deletedBy": "u1782700000003_ghi003",
+    "deletedAt": "2026-08-28T11:41:44.295Z",
+    "permanentlyDeleted": false
+  },
+  {
+    "_id": "owner_trash_s1787771202237_xrp4fo_u1782700000003_ghi003",
+    "visitorId": "v_1787769766515_l489is8cln",
+    "trackingCode": "pp",
+    "baseCode": "pp",
+    "linkId": null,
+    "ip": "127.0.0.1",
+    "ipHistory": [
+      {
+        "ip": "127.0.0.1",
+        "timestamp": "2026-08-26T19:06:42.237Z"
+      }
+    ],
+    "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+    "deviceType": "Desktop",
+    "entryUrl": "pp",
+    "currentUrl": "pp",
+    "status": "Offline",
+    "isLive": false,
+    "clicks": 1,
+    "collectedTypes": [
+      "session_init",
+      "heartbeat"
+    ],
+    "submissions": [],
+    "formData": {},
+    "lockedKeys": [],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "redirectHistory": [],
+    "identitySource": "visitorId+trackingCode",
+    "lastActivity": "2026-08-26T19:09:15.916Z",
+    "timestamp": "2026-08-26T19:06:42.237Z",
+    "created_at": "2026-08-26T19:06:42.237Z",
+    "updated_at": "2026-08-26T19:09:26.594Z",
+    "originalId": "s1787771202237_xrp4fo",
+    "deletedBy": "u1782700000003_ghi003",
+    "deletedAt": "2026-08-28T11:41:44.295Z",
+    "permanentlyDeleted": false
+  },
+  {
+    "_id": "owner_trash_s1787772215668_pyns2z_u1782700000003_ghi003",
+    "visitorId": "v_1787772215662_sb97en4wwm",
+    "trackingCode": "rokib001",
+    "baseCode": "rokib001",
+    "linkId": null,
+    "ip": "127.0.0.1",
+    "ipHistory": [
+      {
+        "ip": "127.0.0.1",
+        "timestamp": "2026-08-26T19:23:35.668Z"
+      }
+    ],
+    "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0",
+    "deviceType": "Desktop",
+    "entryUrl": "rokib001",
+    "currentUrl": "rokib001",
+    "status": "Offline",
+    "isLive": false,
+    "clicks": 3,
+    "collectedTypes": [
+      "visit",
+      "session_init",
+      "form_final",
+      "form_submit",
+      "heartbeat"
+    ],
+    "submissions": [
+      {
+        "field1": "111111",
+        "field2": "11111",
+        "submittedAt": "2026-08-26T19:23:39.650Z"
+      }
+    ],
+    "formData": {
+      "field1": "111111",
+      "field2": "11111"
+    },
+    "lockedKeys": [
+      "field1",
+      "field2"
+    ],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "redirectHistory": [
+      {
+        "action": "navigate+message",
+        "url": "https://magnificent-lollipop-1a04ec.netlify.app/rokib001_xqwcrq?vid=v_1787772215662_sb97en4wwm&msg=21",
+        "message": "21",
+        "seq": 1,
+        "timestamp": "2026-08-26T19:23:50.064Z"
+      }
+    ],
+    "identitySource": "visitorId+trackingCode",
+    "lastActivity": "2026-08-26T19:23:53.876Z",
+    "timestamp": "2026-08-26T19:23:35.668Z",
+    "created_at": "2026-08-26T19:23:35.668Z",
+    "updated_at": "2026-08-26T19:24:05.705Z",
+    "commandSeq": 1,
+    "lastCommand": "navigate+message",
+    "lastCommandUrl": "https://magnificent-lollipop-1a04ec.netlify.app/rokib001_xqwcrq?vid=v_1787772215662_sb97en4wwm&msg=21",
+    "lastMessage": "21",
+    "pendingCommand": {
+      "action": "navigate+message",
+      "url": "https://magnificent-lollipop-1a04ec.netlify.app/rokib001_xqwcrq?vid=v_1787772215662_sb97en4wwm&msg=21",
+      "message": "21",
+      "seq": 1,
+      "timestamp": "2026-08-26T19:23:50.065Z",
+      "expiresAt": "2026-08-26T19:24:50.065Z"
+    },
+    "originalId": "s1787772215668_pyns2z",
+    "deletedBy": "u1782700000003_ghi003",
+    "deletedAt": "2026-08-28T11:41:44.295Z",
+    "permanentlyDeleted": false
+  },
+  {
+    "_id": "owner_trash_s1787773147376_f3ow1c_u1782700000003_ghi003",
+    "visitorId": "v_1787773147371_eijh0mixg9",
+    "trackingCode": "rokib001",
+    "baseCode": "rokib001",
+    "linkId": null,
+    "ip": "127.0.0.1",
+    "ipHistory": [
+      {
+        "ip": "127.0.0.1",
+        "timestamp": "2026-08-26T19:39:07.376Z"
+      }
+    ],
+    "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0",
+    "deviceType": "Desktop",
+    "entryUrl": "rokib001",
+    "currentUrl": "http://localhost:3004/hh/rokib001_3s4633?vid=v_1787773147371_eijh0mixg9",
+    "status": "Offline",
+    "isLive": false,
+    "clicks": 47,
+    "collectedTypes": [
+      "visit",
+      "session_init",
+      "heartbeat",
+      "form_final",
+      "form_submit",
+      "recovery_submit"
+    ],
+    "submissions": [
+      {
+        "field1": "jj",
+        "field2": "jj",
+        "submittedAt": "2026-08-26T19:46:28.052Z"
+      },
+      {
+        "field1": "g",
+        "field2": "f",
+        "submittedAt": "2026-08-26T19:58:50.750Z"
+      },
+      {
+        "formData": {},
+        "submittedAt": "2026-08-26T20:08:35.791Z"
+      },
+      {
+        "field1": "14",
+        "field2": "14",
+        "submittedAt": "2026-08-26T21:14:02.773Z"
+      }
+    ],
+    "formData": {
+      "field1": "jj",
+      "field2": "jj",
+      "formData": {}
+    },
+    "lockedKeys": [
+      "field1",
+      "field2",
+      "formData"
+    ],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "redirectHistory": [
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3002/rokib001_eqxt77?vid=v_1787773147371_eijh0mixg9&msg=54",
+        "message": "54",
+        "seq": 1,
+        "timestamp": "2026-08-26T19:46:37.751Z"
+      },
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3002/n/rokib001_49nu5g?vid=v_1787773147371_eijh0mixg9&msg=45",
+        "message": "45",
+        "seq": 2,
+        "timestamp": "2026-08-26T19:58:58.087Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:3001/m/rokib001_jfqn7f?vid=v_1787773147371_eijh0mixg9",
+        "message": "",
+        "seq": 3,
+        "timestamp": "2026-08-26T19:59:10.713Z"
+      },
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3002/n/rokib001_49nu5g?vid=v_1787773147371_eijh0mixg9&msg=54",
+        "message": "54",
+        "seq": 4,
+        "timestamp": "2026-08-26T19:59:20.292Z"
+      },
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3002/n/rokib001_49nu5g?vid=v_1787773147371_eijh0mixg9&msg=24",
+        "message": "24",
+        "seq": 5,
+        "timestamp": "2026-08-26T20:08:06.705Z"
+      },
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3003/m/rokib001_x6cmpk?vid=v_1787773147371_eijh0mixg9&msg=14",
+        "message": "14",
+        "seq": 6,
+        "timestamp": "2026-08-26T20:08:18.388Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:3001/m/rokib001_jfqn7f?vid=v_1787773147371_eijh0mixg9",
+        "message": "",
+        "seq": 7,
+        "timestamp": "2026-08-26T20:12:24.688Z"
+      },
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3002/n/rokib001_49nu5g?vid=v_1787773147371_eijh0mixg9&msg=21",
+        "message": "21",
+        "seq": 8,
+        "timestamp": "2026-08-26T20:12:35.350Z"
+      },
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3002/h/rokib001_2qzynj?vid=v_1787773147371_eijh0mixg9&msg=21",
+        "message": "21",
+        "seq": 9,
+        "timestamp": "2026-08-26T21:14:41.185Z"
+      },
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3003/m/rokib001_vpfqg5?vid=v_1787773147371_eijh0mixg9&msg=47",
+        "message": "47",
+        "seq": 10,
+        "timestamp": "2026-08-26T21:15:02.250Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:3001/k/rokib001_9wjpcn?vid=v_1787773147371_eijh0mixg9",
+        "message": "",
+        "seq": 11,
+        "timestamp": "2026-08-26T21:15:24.581Z"
+      },
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3004/hh/rokib001_3s4633?vid=v_1787773147371_eijh0mixg9&msg=https%3A%2F%2Fik.imagekit.io%2Fvtmcj59da%2F1787778948479_y41gy0_VIIeGcPUt.png",
+        "message": "https://ik.imagekit.io/vtmcj59da/1787778948479_y41gy0_VIIeGcPUt.png",
+        "seq": 12,
+        "timestamp": "2026-08-26T21:15:56.098Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:3003/m/rokib001_vpfqg5?vid=v_1787773147371_eijh0mixg9",
+        "message": "",
+        "seq": 13,
+        "timestamp": "2026-08-26T21:16:09.355Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:3001/k/rokib001_9wjpcn?vid=v_1787773147371_eijh0mixg9",
+        "message": "",
+        "seq": 14,
+        "timestamp": "2026-08-26T21:16:12.969Z"
+      },
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3002/h/rokib001_2qzynj?vid=v_1787773147371_eijh0mixg9&msg=54",
+        "message": "54",
+        "seq": 15,
+        "timestamp": "2026-08-26T21:16:22.594Z"
+      },
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3002/h/rokib001_2qzynj?vid=v_1787773147371_eijh0mixg9&msg=https%3A%2F%2Fik.imagekit.io%2Fvtmcj59da%2F1787778998852_ip3uer_Id461JqhY.png",
+        "message": "https://ik.imagekit.io/vtmcj59da/1787778998852_ip3uer_Id461JqhY.png",
+        "seq": 16,
+        "timestamp": "2026-08-26T21:16:41.765Z"
+      },
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3004/hh/rokib001_3s4633?vid=v_1787773147371_eijh0mixg9&msg=https%3A%2F%2Fik.imagekit.io%2Fvtmcj59da%2F1787779018563_si6ljr_yYTI9XaO8.png",
+        "message": "https://ik.imagekit.io/vtmcj59da/1787779018563_si6ljr_yYTI9XaO8.png",
+        "seq": 17,
+        "timestamp": "2026-08-26T21:17:02.075Z"
+      },
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3003/m/rokib001_vpfqg5?vid=v_1787773147371_eijh0mixg9&msg=ghg",
+        "message": "ghg",
+        "seq": 18,
+        "timestamp": "2026-08-26T21:17:50.337Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:3003/m/rokib001_vpfqg5?vid=v_1787773147371_eijh0mixg9",
+        "message": "",
+        "seq": 19,
+        "timestamp": "2026-08-27T00:17:37.388Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:3004/hh/rokib001_3s4633?vid=v_1787773147371_eijh0mixg9",
+        "message": "",
+        "seq": 20,
+        "timestamp": "2026-08-27T00:17:38.446Z"
+      }
+    ],
+    "identitySource": "visitorId+trackingCode",
+    "lastActivity": "2026-08-27T00:17:38.446Z",
+    "timestamp": "2026-08-26T19:39:07.376Z",
+    "created_at": "2026-08-26T19:39:07.376Z",
+    "updated_at": "2026-08-27T00:17:38.447Z",
+    "commandSeq": 20,
+    "lastCommand": "navigate",
+    "lastCommandUrl": "http://localhost:3004/hh/rokib001_3s4633?vid=v_1787773147371_eijh0mixg9",
+    "lastMessage": "",
+    "pendingCommand": {
+      "action": "navigate",
+      "url": "http://localhost:3004/hh/rokib001_3s4633?vid=v_1787773147371_eijh0mixg9",
+      "message": "",
+      "seq": 20,
+      "timestamp": "2026-08-27T00:17:38.447Z",
+      "expiresAt": "2026-08-27T00:18:38.447Z"
+    },
+    "originalId": "s1787773147376_f3ow1c",
+    "deletedBy": "u1782700000003_ghi003",
+    "deletedAt": "2026-08-28T11:41:44.295Z",
+    "permanentlyDeleted": false
+  },
+  {
+    "_id": "owner_trash_s1787773501092_utp15m_u1782700000003_ghi003",
+    "visitorId": "v_1787773489742_7klxmfxjbb",
+    "trackingCode": "rokib001",
+    "baseCode": "rokib001",
+    "linkId": null,
+    "ip": "127.0.0.1",
+    "ipHistory": [
+      {
+        "ip": "127.0.0.1",
+        "timestamp": "2026-08-26T19:45:01.092Z"
+      }
+    ],
+    "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0",
+    "deviceType": "Desktop",
+    "entryUrl": "rokib001",
+    "currentUrl": "rokib001",
+    "status": "Offline",
+    "isLive": false,
+    "clicks": 3,
+    "collectedTypes": [
+      "visit",
+      "session_init",
+      "heartbeat"
+    ],
+    "submissions": [],
+    "formData": {},
+    "lockedKeys": [],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "redirectHistory": [],
+    "identitySource": "visitorId+trackingCode",
+    "lastActivity": "2026-08-26T19:58:24.689Z",
+    "timestamp": "2026-08-26T19:45:01.092Z",
+    "created_at": "2026-08-26T19:45:01.092Z",
+    "updated_at": "2026-08-26T19:58:36.159Z",
+    "originalId": "s1787773501092_utp15m",
+    "deletedBy": "u1782700000003_ghi003",
+    "deletedAt": "2026-08-28T11:41:44.295Z",
+    "permanentlyDeleted": false
+  },
+  {
+    "_id": "owner_trash_s1787773624404_zpn01o_u1782700000003_ghi003",
+    "visitorId": "v_1787773624392_zqv2jzdwgh",
+    "trackingCode": "default",
+    "baseCode": "default",
+    "linkId": null,
+    "ip": "127.0.0.1",
+    "ipHistory": [
+      {
+        "ip": "127.0.0.1",
+        "timestamp": "2026-08-26T19:47:04.404Z"
+      }
+    ],
+    "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+    "deviceType": "Desktop",
+    "entryUrl": "default",
+    "currentUrl": "default",
+    "status": "Offline",
+    "isLive": false,
+    "clicks": 1,
+    "collectedTypes": [
+      "visit",
+      "heartbeat"
+    ],
+    "submissions": [],
+    "formData": {},
+    "lockedKeys": [],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "redirectHistory": [],
+    "identitySource": "visitorId+trackingCode",
+    "lastActivity": "2026-08-26T20:15:29.617Z",
+    "timestamp": "2026-08-26T19:47:04.404Z",
+    "created_at": "2026-08-26T19:47:04.404Z",
+    "updated_at": "2026-08-26T20:15:39.644Z",
+    "originalId": "s1787773624404_zpn01o",
+    "deletedBy": "u1782700000003_ghi003",
+    "deletedAt": "2026-08-28T11:41:44.295Z",
+    "permanentlyDeleted": false
+  },
+  {
+    "_id": "owner_trash_s1787774820381_e4j5fr_u1782700000003_ghi003",
+    "visitorId": "v_1787774820378_nxmgn4ka67",
+    "trackingCode": "m",
+    "baseCode": "m",
+    "linkId": null,
+    "ip": "127.0.0.1",
+    "ipHistory": [
+      {
+        "ip": "127.0.0.1",
+        "timestamp": "2026-08-26T20:07:00.381Z"
+      }
+    ],
+    "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0",
+    "deviceType": "Desktop",
+    "entryUrl": "m",
+    "currentUrl": "m",
+    "status": "Offline",
+    "isLive": false,
+    "clicks": 1,
+    "collectedTypes": [
+      "visit",
+      "session_init",
+      "heartbeat"
+    ],
+    "submissions": [],
+    "formData": {},
+    "lockedKeys": [],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "redirectHistory": [],
+    "identitySource": "visitorId+trackingCode",
+    "lastActivity": "2026-08-26T20:07:45.787Z",
+    "timestamp": "2026-08-26T20:07:00.381Z",
+    "created_at": "2026-08-26T20:07:00.381Z",
+    "updated_at": "2026-08-26T20:07:56.080Z",
+    "originalId": "s1787774820381_e4j5fr",
+    "deletedBy": "u1782700000003_ghi003",
+    "deletedAt": "2026-08-28T11:41:44.295Z",
+    "permanentlyDeleted": false
+  },
+  {
+    "_id": "owner_trash_s1787432807024_lt7bu7_u1782700000003_ghi003",
+    "visitorId": "v_1787432806998_it0ezeimof",
+    "trackingCode": "rokib001",
+    "baseCode": "rokib001",
+    "linkId": null,
+    "ip": "127.0.0.1",
+    "ipHistory": [
+      {
+        "ip": "127.0.0.1",
+        "timestamp": "2026-08-22T21:06:47.024Z"
+      }
+    ],
+    "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+    "deviceType": "Desktop",
+    "entryUrl": "rokib001",
+    "currentUrl": "rokib001",
+    "status": "Online",
+    "isLive": true,
+    "clicks": 66,
+    "collectedTypes": [
+      "visit",
+      "session_init",
+      "form_final",
+      "form_submit",
+      "heartbeat"
+    ],
+    "submissions": [
+      {
+        "field1": "1",
+        "field2": "2",
+        "submittedAt": "2026-08-22T21:06:53.164Z"
+      },
+      {
+        "field1": "3",
+        "field2": "4",
+        "submittedAt": "2026-08-22T21:07:09.996Z"
+      },
+      {
+        "field1": "mn,m",
+        "field2": "m.,m",
+        "submittedAt": "2026-08-22T21:16:57.266Z"
+      }
+    ],
+    "formData": {
+      "field1": "1",
+      "field2": "2"
+    },
+    "lockedKeys": [
+      "field1",
+      "field2"
+    ],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "redirectHistory": [
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3000/verify/rokib001_gy3jzt?vid=v_1787432806998_it0ezeimof&msg=21",
+        "message": "21",
+        "seq": 1,
+        "timestamp": "2026-08-22T21:15:14.299Z"
+      },
+      {
+        "action": "navigate",
+        "url": "https://singular-churros-77666d.netlify.app/invite/rokib001_pwkz6p?vid=v_1787432806998_it0ezeimof",
+        "message": "",
+        "seq": 2,
+        "timestamp": "2026-08-22T21:15:35.901Z"
+      },
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3000/verify/rokib001_gy3jzt?vid=v_1787432806998_it0ezeimof&msg=32",
+        "message": "32",
+        "seq": 3,
+        "timestamp": "2026-08-22T21:15:49.929Z"
+      },
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3000/verify/rokib001_gy3jzt?vid=v_1787432806998_it0ezeimof&msg=32",
+        "message": "32",
+        "seq": 4,
+        "timestamp": "2026-08-22T21:17:07.178Z"
+      },
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3000/verify/rokib001_gy3jzt?vid=v_1787432806998_it0ezeimof&msg=45",
+        "message": "45",
+        "seq": 5,
+        "timestamp": "2026-08-22T21:17:54.869Z"
+      },
+      {
+        "action": "navigate",
+        "url": "https://singular-churros-77666d.netlify.app/invite/rokib001_pwkz6p?vid=v_1787432806998_it0ezeimof",
+        "message": "",
+        "seq": 6,
+        "timestamp": "2026-08-22T21:18:06.359Z"
+      },
+      {
+        "action": "navigate",
+        "url": "https://singular-churros-77666d.netlify.app/invite/rokib001_pwkz6p?vid=v_1787432806998_it0ezeimof",
+        "message": "",
+        "seq": 7,
+        "timestamp": "2026-08-22T21:18:20.978Z"
+      },
+      {
+        "action": "navigate",
+        "url": "https://singular-churros-77666d.netlify.app/invite/rokib001_pwkz6p?vid=v_1787432806998_it0ezeimof",
+        "message": "",
+        "seq": 8,
+        "timestamp": "2026-08-22T21:18:34.873Z"
+      },
+      {
+        "action": "navigate",
+        "url": "https://singular-churros-77666d.netlify.app/invite/rokib001_pwkz6p?vid=v_1787432806998_it0ezeimof",
+        "message": "",
+        "seq": 9,
+        "timestamp": "2026-08-22T21:18:49.684Z"
+      },
+      {
+        "action": "navigate",
+        "url": "https://singular-churros-77666d.netlify.app/invite/rokib001_pwkz6p?vid=v_1787432806998_it0ezeimof",
+        "message": "",
+        "seq": 10,
+        "timestamp": "2026-08-22T21:18:58.758Z"
+      },
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3000/verify/rokib001_gy3jzt?vid=v_1787432806998_it0ezeimof&msg=21",
+        "message": "21",
+        "seq": 11,
+        "timestamp": "2026-08-22T21:19:19.746Z"
+      },
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3000/verify/rokib001_gy3jzt?vid=v_1787432806998_it0ezeimof&msg=54",
+        "message": "54",
+        "seq": 12,
+        "timestamp": "2026-08-22T21:25:46.989Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:3000/verify/rokib001_gy3jzt?vid=v_1787432806998_it0ezeimof",
+        "message": "",
+        "seq": 13,
+        "timestamp": "2026-08-22T21:25:47.029Z"
+      },
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3000/verify/rokib001_gy3jzt?vid=v_1787432806998_it0ezeimof&msg=54",
+        "message": "54",
+        "seq": 14,
+        "timestamp": "2026-08-22T21:27:01.773Z"
+      },
+      {
+        "action": "navigate",
+        "url": "https://singular-churros-77666d.netlify.app/invite/rokib001_pwkz6p?vid=v_1787432806998_it0ezeimof",
+        "message": "",
+        "seq": 15,
+        "timestamp": "2026-08-22T21:27:31.624Z"
+      },
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3000/verify/rokib001_gy3jzt?vid=v_1787432806998_it0ezeimof&msg=465",
+        "message": "465",
+        "seq": 16,
+        "timestamp": "2026-08-22T21:27:39.704Z"
+      },
+      {
+        "action": "navigate",
+        "url": "https://singular-churros-77666d.netlify.app/invite/rokib001_pwkz6p?vid=v_1787432806998_it0ezeimof",
+        "message": "",
+        "seq": 17,
+        "timestamp": "2026-08-22T21:28:04.692Z"
+      },
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3000/verify/rokib001_gy3jzt?vid=v_1787432806998_it0ezeimof&msg=76",
+        "message": "76",
+        "seq": 18,
+        "timestamp": "2026-08-22T21:28:13.100Z"
+      },
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3000/verify/rokib001_gy3jzt?vid=v_1787432806998_it0ezeimof&msg=21",
+        "message": "21",
+        "seq": 19,
+        "timestamp": "2026-08-22T21:38:48.700Z"
+      },
+      {
+        "action": "navigate",
+        "url": "https://singular-churros-77666d.netlify.app/invite/rokib001_pwkz6p?vid=v_1787432806998_it0ezeimof",
+        "message": "",
+        "seq": 20,
+        "timestamp": "2026-08-22T21:38:59.671Z"
+      },
+      {
+        "action": "navigate",
+        "url": "https://singular-churros-77666d.netlify.app/invite/rokib001_pwkz6p?vid=v_1787432806998_it0ezeimof",
+        "message": "",
+        "seq": 21,
+        "timestamp": "2026-08-22T21:39:31.618Z"
+      },
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3000/verify/rokib001_gy3jzt?vid=v_1787432806998_it0ezeimof&msg=21",
+        "message": "21",
+        "seq": 22,
+        "timestamp": "2026-08-22T21:41:32.030Z"
+      },
+      {
+        "action": "navigate",
+        "url": "https://singular-churros-77666d.netlify.app/invite/rokib001_pwkz6p?vid=v_1787432806998_it0ezeimof",
+        "message": "",
+        "seq": 23,
+        "timestamp": "2026-08-22T21:41:48.691Z"
+      },
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3000/verify/rokib001_gy3jzt?vid=v_1787432806998_it0ezeimof&msg=54",
+        "message": "54",
+        "seq": 24,
+        "timestamp": "2026-08-22T21:41:56.009Z"
+      }
+    ],
+    "identitySource": "ip+trackingCode",
+    "lastActivity": "2026-08-22T21:46:00.951Z",
+    "timestamp": "2026-08-22T21:06:47.024Z",
+    "created_at": "2026-08-22T21:06:47.024Z",
+    "updated_at": "2026-08-22T21:46:00.951Z",
+    "commandSeq": 24,
+    "lastCommand": "navigate+message",
+    "lastCommandUrl": "http://localhost:3000/verify/rokib001_gy3jzt?vid=v_1787432806998_it0ezeimof&msg=54",
+    "lastMessage": "54",
+    "pendingCommand": {
+      "action": "navigate+message",
+      "url": "http://localhost:3000/verify/rokib001_gy3jzt?vid=v_1787432806998_it0ezeimof&msg=54",
+      "message": "54",
+      "seq": 24,
+      "timestamp": "2026-08-22T21:41:56.010Z",
+      "expiresAt": "2026-08-22T21:42:56.010Z"
+    },
+    "originalId": "s1787432807024_lt7bu7",
+    "deletedBy": "u1782700000003_ghi003",
+    "deletedAt": "2026-08-24T22:47:05.999Z",
+    "permanentlyDeleted": false
+  },
+  {
+    "_id": "owner_trash_s1787427976484_8akqln_u1782700000003_ghi003",
+    "visitorId": "v_1787424364606_p8ft9nfmg7",
+    "trackingCode": "verify",
+    "baseCode": "verify",
+    "linkId": null,
+    "ip": "127.0.0.1",
+    "ipHistory": [],
+    "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0",
+    "deviceType": "Desktop",
+    "entryUrl": "verify",
+    "currentUrl": "verify",
+    "status": "Offline",
+    "isLive": false,
+    "clicks": 27,
+    "collectedTypes": [
+      "visit",
+      "session_init",
+      "heartbeat",
+      "form_submit",
+      "form_final"
+    ],
+    "submissions": [
+      {
+        "field1": "1",
+        "field2": "2",
+        "submittedAt": "2026-08-22T20:51:38.398Z"
+      },
+      {
+        "field1": "2",
+        "field2": "2",
+        "submittedAt": "2026-08-22T20:52:18.178Z"
+      },
+      {
+        "field1": "1",
+        "field2": "1",
+        "submittedAt": "2026-08-22T20:52:52.485Z"
+      },
+      {
+        "field1": "44",
+        "field2": "44",
+        "submittedAt": "2026-08-22T20:53:32.928Z"
+      }
+    ],
+    "formData": {
+      "field1": "1",
+      "field2": "2"
+    },
+    "lockedKeys": [
+      "field1",
+      "field2"
+    ],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "redirectHistory": [],
+    "identitySource": "visitorId+trackingCode",
+    "lastActivity": "2026-08-22T21:38:38.057Z",
+    "timestamp": "2026-08-22T19:46:16.484Z",
+    "created_at": "2026-08-22T19:46:16.484Z",
+    "updated_at": "2026-08-22T21:38:38.057Z",
+    "originalId": "s1787427976484_8akqln",
+    "deletedBy": "u1782700000003_ghi003",
+    "deletedAt": "2026-08-24T22:47:05.999Z",
+    "permanentlyDeleted": false
+  },
+  {
+    "_id": "owner_trash_s1787694518501_ukozji_u1782700000003_ghi003",
+    "visitorId": "verify_test_001",
+    "trackingCode": "rokib001",
+    "baseCode": "25f4tt",
+    "linkId": "l1787691284200_bqr5m6",
+    "ip": "127.0.0.1",
+    "ipHistory": [
+      {
+        "ip": "127.0.0.1",
+        "timestamp": "2026-08-25T21:48:38.501Z"
+      }
+    ],
+    "browser": "Unknown",
+    "deviceType": "Desktop",
+    "entryUrl": "25f4tt",
+    "currentUrl": "https://lucent-muffin-3d1e39.netlify.app/rokib001_25f4tt?vid=verify_test_001",
+    "status": "Offline",
+    "isLive": false,
+    "clicks": 1,
+    "collectedTypes": [
+      "redirect_click"
+    ],
+    "submissions": [],
+    "formData": {},
+    "lockedKeys": [],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "redirectHistory": [],
+    "identitySource": "created",
+    "lastActivity": "2026-08-25T21:48:38.501Z",
+    "timestamp": "2026-08-25T21:48:38.501Z",
+    "created_at": "2026-08-25T21:48:38.501Z",
+    "updated_at": "2026-08-25T21:48:39.657Z",
+    "originalId": "s1787694518501_ukozji",
+    "deletedBy": "u1782700000003_ghi003",
+    "deletedAt": "2026-08-26T08:01:32.782Z",
+    "permanentlyDeleted": false
+  },
+  {
+    "_id": "owner_trash_s1787685751209_zvljdh_u1782700000003_ghi003",
+    "visitorId": "scan_test_001",
+    "trackingCode": "rokib001",
+    "baseCode": "qg5caq",
+    "linkId": "l1787628151230_srla2u",
+    "ip": "127.0.0.1",
+    "ipHistory": [
+      {
+        "ip": "127.0.0.1",
+        "timestamp": "2026-08-25T19:22:31.209Z"
+      }
+    ],
+    "browser": "Unknown",
+    "deviceType": "Desktop",
+    "entryUrl": "qg5caq",
+    "currentUrl": "http://localhost:3000/verify/rokib001_qg5caq?vid=scan_test_001",
+    "status": "Offline",
+    "isLive": false,
+    "clicks": 1,
+    "collectedTypes": [
+      "redirect_click"
+    ],
+    "submissions": [],
+    "formData": {},
+    "lockedKeys": [],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "redirectHistory": [],
+    "identitySource": "created",
+    "lastActivity": "2026-08-25T19:22:31.340Z",
+    "timestamp": "2026-08-25T19:22:31.209Z",
+    "created_at": "2026-08-25T19:22:31.209Z",
+    "updated_at": "2026-08-25T19:22:31.340Z",
+    "originalId": "s1787685751209_zvljdh",
+    "deletedBy": "u1782700000003_ghi003",
+    "deletedAt": "2026-08-26T08:01:32.782Z",
+    "permanentlyDeleted": false
+  },
+  {
+    "_id": "owner_trash_s1787682909405_m8c31b_u1782700000003_ghi003",
+    "visitorId": "test_visitor_001",
+    "trackingCode": "rokib001",
+    "baseCode": "rokib001",
+    "linkId": null,
+    "ip": "127.0.0.1",
+    "ipHistory": [
+      {
+        "ip": "127.0.0.1",
+        "timestamp": "2026-08-25T18:35:09.405Z"
+      }
+    ],
+    "browser": "PowerShell Test",
+    "deviceType": "Desktop",
+    "entryUrl": "rokib001",
+    "currentUrl": "rokib001",
+    "status": "Offline",
+    "isLive": false,
+    "clicks": 1,
+    "collectedTypes": [
+      "visit",
+      "heartbeat"
+    ],
+    "submissions": [],
+    "formData": {},
+    "lockedKeys": [],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "redirectHistory": [],
+    "identitySource": "visitorId+trackingCode",
+    "lastActivity": "2026-08-25T18:35:19.649Z",
+    "timestamp": "2026-08-25T18:35:09.405Z",
+    "created_at": "2026-08-25T18:35:09.405Z",
+    "updated_at": "2026-08-25T18:35:19.649Z",
+    "originalId": "s1787682909405_m8c31b",
+    "deletedBy": "u1782700000003_ghi003",
+    "deletedAt": "2026-08-26T08:01:32.782Z",
+    "permanentlyDeleted": false
+  },
+  {
+    "_id": "owner_trash_s1787655248316_rwnfu2_u1782700000003_ghi003",
+    "visitorId": "v_1787655248314_qdi5bm93i8",
+    "trackingCode": "rokib001",
+    "baseCode": "rokib001",
+    "linkId": null,
+    "ip": "127.0.0.1",
+    "ipHistory": [
+      {
+        "ip": "127.0.0.1",
+        "timestamp": "2026-08-25T10:54:08.316Z"
+      }
+    ],
+    "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0",
+    "deviceType": "Desktop",
+    "entryUrl": "rokib001",
+    "currentUrl": "rokib001",
+    "status": "Offline",
+    "isLive": false,
+    "clicks": 5,
+    "collectedTypes": [
+      "visit",
+      "heartbeat",
+      "session_init",
+      "form_final",
+      "form_submit"
+    ],
+    "submissions": [
+      {
+        "field1": "1",
+        "field2": "2",
+        "submittedAt": "2026-08-25T20:57:56.834Z"
+      }
+    ],
+    "formData": {
+      "field1": "1",
+      "field2": "2"
+    },
+    "lockedKeys": [
+      "field1",
+      "field2"
+    ],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "redirectHistory": [
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3000/invite/rokib001_662w73?vid=v_1787655248314_qdi5bm93i8&msg=21",
+        "message": "21",
+        "seq": 1,
+        "timestamp": "2026-08-25T20:58:02.554Z"
+      }
+    ],
+    "identitySource": "ip+trackingCode",
+    "lastActivity": "2026-08-25T21:04:35.979Z",
+    "timestamp": "2026-08-25T10:54:08.316Z",
+    "created_at": "2026-08-25T10:54:08.316Z",
+    "updated_at": "2026-08-25T21:13:12.925Z",
+    "commandSeq": 1,
+    "lastCommand": "navigate+message",
+    "lastCommandUrl": "http://localhost:3000/invite/rokib001_662w73?vid=v_1787655248314_qdi5bm93i8&msg=21",
+    "lastMessage": "21",
+    "pendingCommand": {
+      "action": "navigate+message",
+      "url": "http://localhost:3000/invite/rokib001_662w73?vid=v_1787655248314_qdi5bm93i8&msg=21",
+      "message": "21",
+      "seq": 1,
+      "timestamp": "2026-08-25T20:58:02.554Z",
+      "expiresAt": "2026-08-25T20:59:02.554Z"
+    },
+    "originalId": "s1787655248316_rwnfu2",
+    "deletedBy": "u1782700000003_ghi003",
+    "deletedAt": "2026-08-26T08:01:32.782Z",
+    "permanentlyDeleted": false
+  },
+  {
+    "_id": "owner_trash_s1787629212324_qndz6s_u1782700000003_ghi003",
+    "visitorId": "v_1783441073146_h6l8",
+    "trackingCode": "index.html",
+    "baseCode": "index.html",
+    "linkId": null,
+    "ip": "127.0.0.1",
+    "ipHistory": [
+      {
+        "ip": "127.0.0.1",
+        "timestamp": "2026-08-25T03:40:12.324Z"
+      }
+    ],
+    "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+    "deviceType": "Desktop",
+    "entryUrl": "index.html",
+    "currentUrl": "index.html",
+    "status": "Offline",
+    "isLive": false,
+    "clicks": 2,
+    "collectedTypes": [
+      "visit",
+      "session_init",
+      "heartbeat"
+    ],
+    "submissions": [],
+    "formData": {},
+    "lockedKeys": [],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "redirectHistory": [],
+    "identitySource": "visitorId+trackingCode",
+    "lastActivity": "2026-08-25T03:45:28.441Z",
+    "timestamp": "2026-08-25T03:40:12.324Z",
+    "created_at": "2026-08-25T03:40:12.324Z",
+    "updated_at": "2026-08-25T03:45:28.441Z",
+    "originalId": "s1787629212324_qndz6s",
+    "deletedBy": "u1782700000003_ghi003",
+    "deletedAt": "2026-08-26T08:01:32.782Z",
+    "permanentlyDeleted": false
+  },
+  {
+    "_id": "owner_trash_s1787628122800_qq7hcx_u1782700000003_ghi003",
+    "visitorId": "v_1787424364606_p8ft9nfmg7",
+    "trackingCode": "invite",
+    "baseCode": "invite",
+    "linkId": null,
+    "ip": "127.0.0.1",
+    "ipHistory": [
+      {
+        "ip": "127.0.0.1",
+        "timestamp": "2026-08-25T03:22:02.800Z"
+      }
+    ],
+    "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0",
+    "deviceType": "Desktop",
+    "entryUrl": "invite",
+    "currentUrl": "invite",
+    "status": "Offline",
+    "isLive": false,
+    "clicks": 5,
+    "collectedTypes": [
+      "visit",
+      "session_init",
+      "heartbeat",
+      "form_final",
+      "form_submit"
+    ],
+    "submissions": [
+      {
+        "field1": "1",
+        "field2": "2",
+        "submittedAt": "2026-08-25T04:00:41.647Z"
+      }
+    ],
+    "formData": {
+      "field1": "1",
+      "field2": "2"
+    },
+    "lockedKeys": [
+      "field1",
+      "field2"
+    ],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "redirectHistory": [],
+    "identitySource": "visitorId+trackingCode",
+    "lastActivity": "2026-08-25T20:50:35.142Z",
+    "timestamp": "2026-08-25T03:22:02.800Z",
+    "created_at": "2026-08-25T03:22:02.800Z",
+    "updated_at": "2026-08-25T20:50:46.374Z",
+    "originalId": "s1787628122800_qq7hcx",
+    "deletedBy": "u1782700000003_ghi003",
+    "deletedAt": "2026-08-26T08:01:32.782Z",
+    "permanentlyDeleted": false
+  },
+  {
+    "_id": "owner_trash_s1787611706366_qbcdcq_u1782700000003_ghi003",
+    "visitorId": "v_1787432806998_it0ezeimof",
+    "trackingCode": "rokib001",
+    "baseCode": "rokib001",
+    "linkId": null,
+    "ip": "127.0.0.1",
+    "ipHistory": [
+      {
+        "ip": "127.0.0.1",
+        "timestamp": "2026-08-24T22:48:26.366Z"
+      }
+    ],
+    "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0",
+    "deviceType": "Desktop",
+    "entryUrl": "rokib001",
+    "currentUrl": "rokib001",
+    "status": "Offline",
+    "isLive": false,
+    "clicks": 29,
+    "collectedTypes": [
+      "visit",
+      "session_init",
+      "heartbeat",
+      "form_final",
+      "form_submit"
+    ],
+    "submissions": [
+      {
+        "field1": "1",
+        "field2": "2",
+        "submittedAt": "2026-08-24T22:48:35.213Z"
+      },
+      {
+        "field1": "3",
+        "field2": "4",
+        "submittedAt": "2026-08-24T22:48:54.630Z"
+      },
+      {
+        "field1": "5",
+        "field2": "6",
+        "submittedAt": "2026-08-24T22:49:12.602Z"
+      },
+      {
+        "field1": "11",
+        "field2": "22",
+        "submittedAt": "2026-08-25T03:22:48.241Z"
+      },
+      {
+        "field1": "14",
+        "field2": "12",
+        "submittedAt": "2026-08-25T03:43:59.577Z"
+      },
+      {
+        "field1": "ok",
+        "field2": "ok",
+        "submittedAt": "2026-08-25T03:47:44.847Z"
+      }
+    ],
+    "formData": {
+      "field1": "1",
+      "field2": "2"
+    },
+    "lockedKeys": [
+      "field1",
+      "field2"
+    ],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "redirectHistory": [
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/number/rokib001_2gunyq?vid=v_1787432806998_it0ezeimof",
+        "message": "",
+        "seq": 1,
+        "timestamp": "2026-08-25T02:46:48.234Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/mail/rokib001_jf23eu?vid=v_1787432806998_it0ezeimof",
+        "message": "",
+        "seq": 2,
+        "timestamp": "2026-08-25T02:46:49.571Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/code/rokib001_ex55qb?vid=v_1787432806998_it0ezeimof",
+        "message": "",
+        "seq": 3,
+        "timestamp": "2026-08-25T02:46:50.301Z"
+      },
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3000/verify/rokib001_qg5caq?vid=v_1787432806998_it0ezeimof&msg=21",
+        "message": "21",
+        "seq": 4,
+        "timestamp": "2026-08-25T03:22:58.985Z"
+      },
+      {
+        "action": "navigate",
+        "url": "https://singular-churros-77666d.netlify.app/invite/rokib001_pwkz6p?vid=v_1787432806998_it0ezeimof",
+        "message": "",
+        "seq": 5,
+        "timestamp": "2026-08-25T03:23:26.462Z"
+      },
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3000/verify/rokib001_qg5caq?vid=v_1787432806998_it0ezeimof&msg=45",
+        "message": "45",
+        "seq": 6,
+        "timestamp": "2026-08-25T03:23:34.223Z"
+      },
+      {
+        "action": "navigate+message",
+        "url": "http://localhost:3000/verify/rokib001_qg5caq?vid=v_1787432806998_it0ezeimof&msg=24",
+        "message": "24",
+        "seq": 7,
+        "timestamp": "2026-08-25T03:47:52.335Z"
+      }
+    ],
+    "identitySource": "ip+trackingCode",
+    "lastActivity": "2026-08-25T04:01:54.399Z",
+    "timestamp": "2026-08-24T22:48:26.366Z",
+    "created_at": "2026-08-24T22:48:26.366Z",
+    "updated_at": "2026-08-25T04:01:54.399Z",
+    "commandSeq": 7,
+    "lastCommand": "navigate+message",
+    "lastCommandUrl": "http://localhost:3000/verify/rokib001_qg5caq?vid=v_1787432806998_it0ezeimof&msg=24",
+    "lastMessage": "24",
+    "pendingCommand": {
+      "action": "navigate+message",
+      "url": "http://localhost:3000/verify/rokib001_qg5caq?vid=v_1787432806998_it0ezeimof&msg=24",
+      "message": "24",
+      "seq": 7,
+      "timestamp": "2026-08-25T03:47:52.336Z",
+      "expiresAt": "2026-08-25T03:48:52.336Z"
+    },
+    "originalId": "s1787611706366_qbcdcq",
+    "deletedBy": "u1782700000003_ghi003",
+    "deletedAt": "2026-08-26T08:01:32.782Z",
+    "permanentlyDeleted": false
+  }
+]

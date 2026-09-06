@@ -1,0 +1,9 @@
+[
+  {
+    "_id": "global_timer",
+    "cycleStart": 1788636749163,
+    "cycleEnd": 1788723149163,
+    "lastCleanupAt": "2026-08-28T11:48:27.119Z",
+    "cleanupInProgress": false
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "id": 1785653849591,
+  "label": "Landing Page",
+  "code": "html\n<div style=\"text-align:center;padding:60px 20px;background:linear-gradient(135deg,#667eea,#764ba2);color:#fff;font-family:sans-serif;border-radius:16px\">\n  <h1 style=\"font-size:42px;font-weight:800;margin-bottom:16px\">Welcome to My App</h1>\n  <p style=\"font-size:18px;opacity:0.9;margin-bottom:32px\">The best platform to grow your business</p>\n  <button style=\"padding:14px 40px;font-size:16px;font-weight:700;background:#fff;color:#667eea;border:none;border-radius:50px;cursor:pointer\">Get Started</button>\n  <div style=\"margin-top:40px;display:flex;gap:20px;justify-content:center;flex-wrap:wrap\">\n    <div style=\"background:rgba(255,255,255,0.15);padding:20px;border-radius:12px;width:150px\"><strong>Fast</strong></div>\n    <div style=\"background:rgba(255,255,255,0.15);padding:20px;border-radius:12px;width:150px\"><strong>Secure</strong></div>\n    <div style=\"background:rgba(255,255,255,0.15);padding:20px;border-radius:12px;width:150px\"><strong>Smart</strong></div>\n  </div>\n</div>",
+  "partition": "landing",
+  "savedAt": "2026-08-02T06:57:29.591Z"
+}
