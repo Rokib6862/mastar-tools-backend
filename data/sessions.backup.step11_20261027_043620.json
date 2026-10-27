@@ -1,0 +1,231 @@
+[
+  {
+    "_id": "s1793053954473_1hudvv",
+    "visitorId": "dupD_043234",
+    "trackingCode": "rokib001_dupD",
+    "trackingCodeHistory": [
+      "rokib001_dupD"
+    ],
+    "baseCode": "dupD",
+    "linkId": null,
+    "ip": "::1",
+    "ipHistory": [
+      {
+        "ip": "::1",
+        "timestamp": "2026-10-26T22:32:34.473Z"
+      }
+    ],
+    "browser": "Unknown",
+    "deviceType": "Desktop",
+    "entryUrl": "dupD",
+    "currentUrl": "rokib001_dupD",
+    "status": "Online",
+    "isLive": true,
+    "clicks": 2,
+    "collectedTypes": [
+      "form_submit",
+      "webhook_form_submit"
+    ],
+    "submissions": [
+      {
+        "email": "d@d.com",
+        "name": "D",
+        "phone": "444",
+        "submittedAt": "2026-10-26T22:32:34.473Z"
+      },
+      {
+        "email": "d@d.com",
+        "name": "D",
+        "phone": "444",
+        "submittedAt": "2026-10-26T22:32:37.542Z"
+      }
+    ],
+    "formData": {
+      "email": "d@d.com",
+      "name": "D",
+      "phone": "444"
+    },
+    "lockedKeys": [
+      "email",
+      "name",
+      "phone"
+    ],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "redirectHistory": [],
+    "identitySource": "visitorId",
+    "lastActivity": "2026-10-26T22:32:37.542Z",
+    "timestamp": "2026-10-26T22:32:34.473Z",
+    "created_at": "2026-10-26T22:32:34.473Z",
+    "updated_at": "2026-10-26T22:32:37.542Z"
+  },
+  {
+    "_id": "s1793053951250_02sasi",
+    "visitorId": "dupC_043231",
+    "trackingCode": "rokib001_dupC",
+    "trackingCodeHistory": [
+      "rokib001_dupC"
+    ],
+    "baseCode": "",
+    "linkId": null,
+    "ip": "::1",
+    "ipHistory": [
+      {
+        "ip": "::1",
+        "timestamp": "2026-10-26T22:32:31.250Z"
+      }
+    ],
+    "browser": "Unknown",
+    "deviceType": "Desktop",
+    "entryUrl": "",
+    "currentUrl": "",
+    "status": "Offline",
+    "isLive": false,
+    "clicks": 2,
+    "collectedTypes": [
+      "webhook_form_submit"
+    ],
+    "submissions": [
+      {
+        "email": "c@c.com",
+        "name": "C",
+        "phone": "333",
+        "submittedAt": "2026-10-26T22:32:31.250Z"
+      }
+    ],
+    "formData": {
+      "email": "c@c.com",
+      "name": "C",
+      "phone": "333"
+    },
+    "lockedKeys": [
+      "email",
+      "name",
+      "phone"
+    ],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "redirectHistory": [],
+    "identitySource": "visitorId",
+    "lastActivity": "2026-10-26T22:32:38.416Z",
+    "timestamp": "2026-10-26T22:32:31.250Z",
+    "created_at": "2026-10-26T22:32:31.250Z",
+    "updated_at": "2026-10-26T22:32:38.416Z"
+  },
+  {
+    "_id": "s1793053946992_lea01r",
+    "visitorId": "dupB_043226",
+    "trackingCode": "rokib001_dupB",
+    "trackingCodeHistory": [
+      "rokib001_dupB"
+    ],
+    "baseCode": "dupB",
+    "linkId": null,
+    "ip": "::1",
+    "ipHistory": [
+      {
+        "ip": "::1",
+        "timestamp": "2026-10-26T22:32:26.992Z"
+      }
+    ],
+    "browser": "test",
+    "deviceType": "Desktop",
+    "entryUrl": "dupB",
+    "currentUrl": "rokib001_dupB",
+    "status": "Offline",
+    "isLive": false,
+    "clicks": 2,
+    "collectedTypes": [
+      "form_submit"
+    ],
+    "submissions": [
+      {
+        "email": "b@b.com",
+        "name": "B",
+        "phone": "222",
+        "submittedAt": "2026-10-26T22:32:26.992Z"
+      },
+      {
+        "email": "b@b.com",
+        "name": "B",
+        "phone": "222",
+        "submittedAt": "2026-10-26T22:32:30.062Z"
+      }
+    ],
+    "formData": {
+      "email": "b@b.com",
+      "name": "B",
+      "phone": "222"
+    },
+    "lockedKeys": [
+      "email",
+      "name",
+      "phone"
+    ],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "redirectHistory": [],
+    "identitySource": "visitorId",
+    "lastActivity": "2026-10-26T22:32:38.417Z",
+    "timestamp": "2026-10-26T22:32:26.992Z",
+    "created_at": "2026-10-26T22:32:26.992Z",
+    "updated_at": "2026-10-26T22:32:38.417Z"
+  },
+  {
+    "_id": "s1793053945759_vawpfs",
+    "visitorId": "dupA_043225",
+    "trackingCode": "rokib001_dupA",
+    "trackingCodeHistory": [
+      "rokib001_dupA"
+    ],
+    "baseCode": "dupA",
+    "linkId": null,
+    "ip": "::1",
+    "ipHistory": [
+      {
+        "ip": "::1",
+        "timestamp": "2026-10-26T22:32:25.759Z"
+      }
+    ],
+    "browser": "test",
+    "deviceType": "Desktop",
+    "entryUrl": "dupA",
+    "currentUrl": "rokib001_dupA",
+    "status": "Offline",
+    "isLive": false,
+    "clicks": 2,
+    "collectedTypes": [
+      "form_submit"
+    ],
+    "submissions": [
+      {
+        "email": "a@a.com",
+        "name": "A",
+        "phone": "111",
+        "submittedAt": "2026-10-26T22:32:25.759Z"
+      }
+    ],
+    "formData": {
+      "email": "a@a.com",
+      "name": "A",
+      "phone": "111"
+    },
+    "lockedKeys": [
+      "email",
+      "name",
+      "phone"
+    ],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "redirectHistory": [],
+    "identitySource": "visitorId",
+    "lastActivity": "2026-10-26T22:32:32.398Z",
+    "timestamp": "2026-10-26T22:32:25.759Z",
+    "created_at": "2026-10-26T22:32:25.759Z",
+    "updated_at": "2026-10-26T22:32:32.398Z"
+  }
+]

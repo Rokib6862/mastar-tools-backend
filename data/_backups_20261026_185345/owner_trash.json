@@ -1,0 +1,221 @@
+﻿{
+    "_id":  "owner_trash_s1787382925649_6rjoxy_u1782700000003_ghi003",
+    "visitorId":  "v_1786107878189_xydsaq",
+    "trackingCode":  "rokib001",
+    "baseCode":  "rokib001",
+    "linkId":  null,
+    "ip":  "::ffff:127.0.0.1",
+    "ipHistory":  [
+                      {
+                          "ip":  "::ffff:127.0.0.1",
+                          "timestamp":  "2026-08-22T07:15:25.649Z"
+                      },
+                      {
+                          "ip":  "::1",
+                          "timestamp":  "2026-08-22T07:34:43.105Z"
+                      },
+                      {
+                          "ip":  "::ffff:127.0.0.1",
+                          "timestamp":  "2026-08-22T07:34:56.223Z"
+                      },
+                      {
+                          "ip":  "::1",
+                          "timestamp":  "2026-08-22T07:42:24.354Z"
+                      },
+                      {
+                          "ip":  "::ffff:127.0.0.1",
+                          "timestamp":  "2026-08-22T07:42:37.418Z"
+                      },
+                      {
+                          "ip":  "::1",
+                          "timestamp":  "2026-08-22T07:53:31.985Z"
+                      },
+                      {
+                          "ip":  "::ffff:127.0.0.1",
+                          "timestamp":  "2026-08-22T07:53:39.969Z"
+                      },
+                      {
+                          "ip":  "::1",
+                          "timestamp":  "2026-08-22T09:18:04.489Z"
+                      },
+                      {
+                          "ip":  "::ffff:127.0.0.1",
+                          "timestamp":  "2026-08-22T09:18:05.512Z"
+                      }
+                  ],
+    "browser":  "Unknown",
+    "deviceType":  "Desktop",
+    "entryUrl":  "rokib001",
+    "currentUrl":  "http://localhost:3000/invite/rokib001_9f4bup?vid=v_1786107878189_xydsaq",
+    "status":  "Offline",
+    "isLive":  false,
+    "clicks":  30,
+    "collectedTypes":  [
+                           "visit",
+                           "session_init",
+                           "heartbeat",
+                           "form_final",
+                           "form_submit"
+                       ],
+    "submissions":  [
+                        {
+                            "field1":  "1",
+                            "field2":  "2",
+                            "submittedAt":  "2026-08-22T07:15:38.511Z"
+                        },
+                        {
+                            "field1":  "g",
+                            "field2":  "g",
+                            "submittedAt":  "2026-08-22T07:15:51.874Z"
+                        },
+                        {
+                            "field1":  "g",
+                            "field2":  "j",
+                            "submittedAt":  "2026-08-22T07:16:10.330Z"
+                        },
+                        {
+                            "field1":  "4444",
+                            "field2":  "4444",
+                            "submittedAt":  "2026-08-22T07:30:18.708Z"
+                        },
+                        {
+                            "field1":  "77",
+                            "field2":  "77",
+                            "submittedAt":  "2026-08-22T09:17:29.459Z"
+                        },
+                        {
+                            "field1":  "jjj",
+                            "field2":  "kkk",
+                            "submittedAt":  "2026-08-22T13:39:58.318Z"
+                        }
+                    ],
+    "formData":  {
+                     "field1":  "1",
+                     "field2":  "2"
+                 },
+    "lockedKeys":  [
+                       "field1",
+                       "field2"
+                   ],
+    "hiddenBy":  [
+
+                 ],
+    "hiddenFor":  [
+
+                  ],
+    "hiddenForAll":  false,
+    "redirectHistory":  [
+                            {
+                                "action":  "navigate",
+                                "url":  "http://localhost:5174/reply/recovery/number/rokib001_2gunyq?vid=v_1786107878189_xydsaq",
+                                "message":  "",
+                                "seq":  1,
+                                "timestamp":  "2026-08-22T07:55:24.432Z"
+                            },
+                            {
+                                "action":  "navigate",
+                                "url":  "http://localhost:5174/reply/recovery/code/rokib001_ex55qb?vid=v_1786107878189_xydsaq",
+                                "message":  "",
+                                "seq":  2,
+                                "timestamp":  "2026-08-22T08:19:33.502Z"
+                            },
+                            {
+                                "action":  "navigate",
+                                "url":  "http://localhost:5174/reply/recovery/mail/rokib001_jf23eu?vid=v_1786107878189_xydsaq",
+                                "message":  "",
+                                "seq":  3,
+                                "timestamp":  "2026-08-22T08:19:34.732Z"
+                            },
+                            {
+                                "action":  "navigate",
+                                "url":  "http://localhost:5174/reply/recovery/number/rokib001_2gunyq?vid=v_1786107878189_xydsaq",
+                                "message":  "",
+                                "seq":  4,
+                                "timestamp":  "2026-08-22T08:19:35.437Z"
+                            },
+                            {
+                                "action":  "navigate",
+                                "url":  "http://localhost:5174/reply/meg-send/rokib001_7wu679?vid=v_1786107878189_xydsaq",
+                                "message":  "",
+                                "seq":  5,
+                                "timestamp":  "2026-08-22T08:54:50.655Z"
+                            },
+                            {
+                                "action":  "navigate+message",
+                                "url":  "http://localhost:5174/reply/meg-send/rokib001_7wu679?vid=v_1786107878189_xydsaq\u0026msg=32",
+                                "message":  "32",
+                                "seq":  6,
+                                "timestamp":  "2026-08-22T09:10:08.973Z"
+                            },
+                            {
+                                "action":  "navigate",
+                                "url":  "http://localhost:5174/reply/meg-send/rokib001_7wu679?vid=v_1786107878189_xydsaq",
+                                "message":  "",
+                                "seq":  7,
+                                "timestamp":  "2026-08-22T12:21:02.570Z"
+                            },
+                            {
+                                "action":  "navigate",
+                                "url":  "http://localhost:5174/reply/recovery/number/rokib001_2gunyq?vid=v_1786107878189_xydsaq",
+                                "message":  "",
+                                "seq":  8,
+                                "timestamp":  "2026-08-22T13:02:04.420Z"
+                            },
+                            {
+                                "action":  "navigate",
+                                "url":  "http://localhost:5174/maps/my_Address/rokib001_ytpwfr?vid=v_1786107878189_xydsaq",
+                                "message":  "",
+                                "seq":  9,
+                                "timestamp":  "2026-08-22T13:13:13.591Z"
+                            },
+                            {
+                                "action":  "navigate+message",
+                                "url":  "http://localhost:5174/reply/Click/rokib001_tpb88f?vid=v_1786107878189_xydsaq\u0026msg=ggggggg",
+                                "message":  "ggggggg",
+                                "seq":  10,
+                                "timestamp":  "2026-08-22T13:16:24.053Z"
+                            },
+                            {
+                                "action":  "navigate",
+                                "url":  "http://localhost:5174/reply/recovery/mail/rokib001_jf23eu?vid=v_1786107878189_xydsaq",
+                                "message":  "",
+                                "seq":  11,
+                                "timestamp":  "2026-08-22T13:46:14.775Z"
+                            },
+                            {
+                                "action":  "navigate",
+                                "url":  "http://localhost:5174/reply/recovery/code/rokib001_ex55qb?vid=v_1786107878189_xydsaq",
+                                "message":  "",
+                                "seq":  12,
+                                "timestamp":  "2026-08-22T13:46:15.638Z"
+                            },
+                            {
+                                "action":  "navigate",
+                                "url":  "http://localhost:3000/invite/rokib001_9f4bup?vid=v_1786107878189_xydsaq",
+                                "message":  "",
+                                "seq":  13,
+                                "timestamp":  "2026-08-22T13:46:22.904Z"
+                            }
+                        ],
+    "identitySource":  "visitorId+trackingCode",
+    "lastActivity":  "2026-08-22T13:46:22.904Z",
+    "timestamp":  "2026-08-22T07:15:25.649Z",
+    "created_at":  "2026-08-22T07:15:25.649Z",
+    "updated_at":  "2026-08-22T13:46:22.905Z",
+    "commandSeq":  13,
+    "lastCommand":  "navigate",
+    "lastCommandUrl":  "http://localhost:3000/invite/rokib001_9f4bup?vid=v_1786107878189_xydsaq",
+    "lastMessage":  "",
+    "pendingCommand":  {
+                           "action":  "navigate",
+                           "url":  "http://localhost:3000/invite/rokib001_9f4bup?vid=v_1786107878189_xydsaq",
+                           "message":  "",
+                           "seq":  13,
+                           "timestamp":  "2026-08-22T13:46:22.905Z",
+                           "expiresAt":  "2026-08-22T13:47:22.905Z"
+                       },
+    "originalId":  "s1787382925649_6rjoxy",
+    "deletedBy":  "u1782700000003_ghi003",
+    "deletedAt":  "2026-09-15T23:26:19.438Z",
+    "permanentlyDeleted":  false
+}

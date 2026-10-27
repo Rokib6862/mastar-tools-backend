@@ -1,0 +1,381 @@
+[
+  {
+    "_id": "s1793054215042_4zqvc8",
+    "visitorId": "P5b_043654",
+    "trackingCode": "rokib001_P5b",
+    "trackingCodeHistory": [
+      "rokib001_P5b"
+    ],
+    "baseCode": "P5b",
+    "linkId": null,
+    "ip": "::1",
+    "ipHistory": [
+      {
+        "ip": "::1",
+        "timestamp": "2026-10-26T22:36:55.042Z"
+      }
+    ],
+    "browser": "test",
+    "deviceType": "Desktop",
+    "entryUrl": "P5b",
+    "currentUrl": "rokib001_P5b",
+    "status": "Online",
+    "isLive": true,
+    "clicks": 1,
+    "collectedTypes": [
+      "form_submit",
+      "form_submit"
+    ],
+    "submissions": [
+      {
+        "email": "vb@x.com",
+        "name": "Vb",
+        "phone": "bb",
+        "submittedAt": "2026-10-26T22:36:55.042Z"
+      }
+    ],
+    "formData": {
+      "email": "vb@x.com",
+      "name": "Vb",
+      "phone": "bb"
+    },
+    "lockedKeys": [
+      "email",
+      "name",
+      "phone"
+    ],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "redirectHistory": [],
+    "identitySource": "created",
+    "lastActivity": "2026-10-26T22:36:55.042Z",
+    "timestamp": "2026-10-26T22:36:55.042Z",
+    "created_at": "2026-10-26T22:36:55.042Z",
+    "updated_at": "2026-10-26T22:36:55.042Z"
+  },
+  {
+    "_id": "s1793054214911_6hk0cb",
+    "visitorId": "P5a_043654",
+    "trackingCode": "rokib001_P5a",
+    "trackingCodeHistory": [
+      "rokib001_P5a"
+    ],
+    "baseCode": "P5a",
+    "linkId": null,
+    "ip": "::1",
+    "ipHistory": [
+      {
+        "ip": "::1",
+        "timestamp": "2026-10-26T22:36:54.911Z"
+      }
+    ],
+    "browser": "test",
+    "deviceType": "Desktop",
+    "entryUrl": "P5a",
+    "currentUrl": "rokib001_P5a",
+    "status": "Online",
+    "isLive": true,
+    "clicks": 2,
+    "collectedTypes": [
+      "form_submit"
+    ],
+    "submissions": [
+      {
+        "email": "va@x.com",
+        "name": "Va",
+        "phone": "aa",
+        "submittedAt": "2026-10-26T22:36:54.911Z"
+      },
+      {
+        "email": "va2@x.com",
+        "name": "Va2",
+        "phone": "aa2",
+        "submittedAt": "2026-10-26T22:36:55.087Z"
+      }
+    ],
+    "formData": {
+      "email": "va2@x.com",
+      "name": "Va2",
+      "phone": "aa2"
+    },
+    "lockedKeys": [
+      "email",
+      "name",
+      "phone"
+    ],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "redirectHistory": [],
+    "identitySource": "visitorId",
+    "lastActivity": "2026-10-26T22:36:55.087Z",
+    "timestamp": "2026-10-26T22:36:54.911Z",
+    "created_at": "2026-10-26T22:36:54.911Z",
+    "updated_at": "2026-10-26T22:36:55.087Z"
+  },
+  {
+    "_id": "s1793054212700_y32k9h",
+    "visitorId": "P4_043642",
+    "trackingCode": "rokib001_P4",
+    "trackingCodeHistory": [
+      "rokib001_P4"
+    ],
+    "baseCode": "P4",
+    "linkId": null,
+    "ip": "::1",
+    "ipHistory": [
+      {
+        "ip": "::1",
+        "timestamp": "2026-10-26T22:36:52.700Z"
+      }
+    ],
+    "browser": "test",
+    "deviceType": "Desktop",
+    "entryUrl": "P4",
+    "currentUrl": "rokib001_P4",
+    "status": "Online",
+    "isLive": true,
+    "clicks": 5,
+    "collectedTypes": [
+      "form_submit"
+    ],
+    "submissions": [
+      {
+        "email": "race@x.com",
+        "name": "Race",
+        "phone": "race",
+        "submittedAt": "2026-10-26T22:36:52.700Z"
+      }
+    ],
+    "formData": {
+      "email": "race@x.com",
+      "name": "Race",
+      "phone": "race"
+    },
+    "lockedKeys": [
+      "email",
+      "name",
+      "phone"
+    ],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "redirectHistory": [],
+    "identitySource": "visitorId",
+    "lastActivity": "2026-10-26T22:36:53.269Z",
+    "timestamp": "2026-10-26T22:36:52.700Z",
+    "created_at": "2026-10-26T22:36:52.700Z",
+    "updated_at": "2026-10-26T22:36:53.270Z"
+  },
+  {
+    "_id": "s1793054198498_diu4w5",
+    "visitorId": "P3_043638",
+    "trackingCode": "rokib001_P3",
+    "trackingCodeHistory": [
+      "rokib001_P3"
+    ],
+    "baseCode": "P3",
+    "linkId": null,
+    "ip": "::1",
+    "ipHistory": [
+      {
+        "ip": "::1",
+        "timestamp": "2026-10-26T22:36:38.498Z"
+      }
+    ],
+    "browser": "test",
+    "deviceType": "Desktop",
+    "entryUrl": "P3",
+    "currentUrl": "rokib001_P3",
+    "status": "Offline",
+    "isLive": false,
+    "clicks": 3,
+    "collectedTypes": [
+      "form_submit"
+    ],
+    "submissions": [
+      {
+        "email": "s1@x.com",
+        "name": "Step1",
+        "phone": "s1",
+        "submittedAt": "2026-10-26T22:36:38.498Z"
+      },
+      {
+        "email": "s2@x.com",
+        "name": "Step2",
+        "phone": "s2",
+        "submittedAt": "2026-10-26T22:36:39.539Z"
+      },
+      {
+        "email": "s3@x.com",
+        "name": "Step3",
+        "phone": "s3",
+        "submittedAt": "2026-10-26T22:36:40.588Z"
+      }
+    ],
+    "formData": {
+      "email": "s3@x.com",
+      "name": "Step3",
+      "phone": "s3"
+    },
+    "lockedKeys": [
+      "email",
+      "name",
+      "phone"
+    ],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "redirectHistory": [],
+    "identitySource": "visitorId",
+    "lastActivity": "2026-10-26T22:36:48.393Z",
+    "timestamp": "2026-10-26T22:36:38.498Z",
+    "created_at": "2026-10-26T22:36:38.498Z",
+    "updated_at": "2026-10-26T22:36:48.393Z"
+  },
+  {
+    "_id": "s1793054188255_istztk",
+    "visitorId": "P2_043628",
+    "trackingCode": "rokib001_P2",
+    "trackingCodeHistory": [
+      "rokib001_P2"
+    ],
+    "baseCode": "P2",
+    "linkId": null,
+    "ip": "::1",
+    "ipHistory": [
+      {
+        "ip": "::1",
+        "timestamp": "2026-10-26T22:36:28.255Z"
+      }
+    ],
+    "browser": "test",
+    "deviceType": "Desktop",
+    "entryUrl": "P2",
+    "currentUrl": "rokib001_P2",
+    "status": "Offline",
+    "isLive": false,
+    "clicks": 3,
+    "collectedTypes": [
+      "form_submit"
+    ],
+    "submissions": [
+      {
+        "email": "same@x.com",
+        "name": "Same",
+        "phone": "777",
+        "submittedAt": "2026-10-26T22:36:28.255Z"
+      },
+      {
+        "email": "same@x.com",
+        "name": "Same",
+        "phone": "777",
+        "submittedAt": "2026-10-26T22:36:31.287Z"
+      },
+      {
+        "email": "same@x.com",
+        "name": "Same",
+        "phone": "777",
+        "submittedAt": "2026-10-26T22:36:34.328Z"
+      }
+    ],
+    "formData": {
+      "email": "same@x.com",
+      "name": "Same",
+      "phone": "777"
+    },
+    "lockedKeys": [
+      "email",
+      "name",
+      "phone"
+    ],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "redirectHistory": [],
+    "identitySource": "visitorId",
+    "lastActivity": "2026-10-26T22:36:42.376Z",
+    "timestamp": "2026-10-26T22:36:28.255Z",
+    "created_at": "2026-10-26T22:36:28.255Z",
+    "updated_at": "2026-10-26T22:36:42.376Z"
+  },
+  {
+    "_id": "s1793054186951_ql7zgl",
+    "visitorId": "P1_043626",
+    "trackingCode": "rokib001_P1",
+    "trackingCodeHistory": [
+      "rokib001_P1"
+    ],
+    "baseCode": "P1",
+    "linkId": null,
+    "ip": "::1",
+    "ipHistory": [
+      {
+        "ip": "::1",
+        "timestamp": "2026-10-26T22:36:26.951Z"
+      }
+    ],
+    "browser": "test",
+    "deviceType": "Desktop",
+    "entryUrl": "P1",
+    "currentUrl": "rokib001_P1",
+    "status": "Offline",
+    "isLive": false,
+    "clicks": 5,
+    "collectedTypes": [
+      "form_submit"
+    ],
+    "submissions": [
+      {
+        "email": "p1_1@x.com",
+        "name": "Form1",
+        "phone": "9001",
+        "submittedAt": "2026-10-26T22:36:26.951Z"
+      },
+      {
+        "email": "p1_2@x.com",
+        "name": "Form2",
+        "phone": "9002",
+        "submittedAt": "2026-10-26T22:36:26.987Z"
+      },
+      {
+        "email": "p1_3@x.com",
+        "name": "Form3",
+        "phone": "9003",
+        "submittedAt": "2026-10-26T22:36:27.014Z"
+      },
+      {
+        "email": "p1_4@x.com",
+        "name": "Form4",
+        "phone": "9004",
+        "submittedAt": "2026-10-26T22:36:27.040Z"
+      },
+      {
+        "email": "p1_5@x.com",
+        "name": "Form5",
+        "phone": "9005",
+        "submittedAt": "2026-10-26T22:36:27.067Z"
+      }
+    ],
+    "formData": {
+      "email": "p1_5@x.com",
+      "name": "Form5",
+      "phone": "9005"
+    },
+    "lockedKeys": [
+      "email",
+      "name",
+      "phone"
+    ],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "redirectHistory": [],
+    "identitySource": "visitorId",
+    "lastActivity": "2026-10-26T22:36:33.357Z",
+    "timestamp": "2026-10-26T22:36:26.951Z",
+    "created_at": "2026-10-26T22:36:26.951Z",
+    "updated_at": "2026-10-26T22:36:33.357Z"
+  }
+]

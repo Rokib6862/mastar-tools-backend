@@ -1,0 +1,7 @@
+{
+  "id": 1785662160667,
+  "label": "Loading",
+  "code": "html\n<div style=\"display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:300px;font-family:sans-serif\">\n  <div style=\"width:60px;height:60px;border:5px solid #e2e8f0;border-top:5px solid #667eea;border-radius:50%;animation:spin 1s linear infinite;margin-bottom:20px\"></div>\n  <h3 style=\"font-size:20px;font-weight:700;color:#1e293b;margin-bottom:8px\">Loading your experience</h3>\n  <p style=\"font-size:14px;color:#94a3b8\">Please wait while we prepare everything...</p>\n  <style>@keyframes spin{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}</style>\n</div>",
+  "partition": "loading",
+  "savedAt": "2026-08-02T09:16:00.667Z"
+}

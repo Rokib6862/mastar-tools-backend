@@ -1,0 +1,602 @@
+[
+  {
+    "_id": "s1793015387842_0q86st",
+    "visitorId": "v_test_2",
+    "trackingCode": "rokib001_test9",
+    "baseCode": "",
+    "linkId": null,
+    "ip": "1.1.1.1",
+    "ipHistory": [
+      {
+        "ip": "1.1.1.1",
+        "timestamp": "2026-10-26T11:49:47.839Z"
+      }
+    ],
+    "browser": "",
+    "deviceType": "Desktop",
+    "entryUrl": "",
+    "currentUrl": "",
+    "status": "Online",
+    "isLive": true,
+    "clicks": 1,
+    "collectedTypes": [
+      "session_init"
+    ],
+    "submissions": [],
+    "formData": {},
+    "lockedKeys": [],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "redirectHistory": [],
+    "identitySource": "created",
+    "lastActivity": "2026-10-26T11:49:47.839Z",
+    "timestamp": "2026-10-26T11:49:47.839Z",
+    "created_at": "2026-10-26T11:49:47.839Z",
+    "updated_at": "2026-10-26T11:49:47.839Z"
+  },
+  {
+    "timestamp": "2026-10-25T22:11:29.018Z",
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "lastActivity": "2026-10-26T07:22:32.235Z",
+    "visitorId": "test_visitor_001",
+    "created_at": "2026-10-25T22:11:29.018Z",
+    "clicks": 41,
+    "submissions": [
+      {
+        "email": "rahim.ahmed@gmail.com",
+        "name": "Rahim Ahmed",
+        "submittedAt": "2026-10-25T22:11:29.018Z",
+        "phone": "01712345678"
+      },
+      {
+        "email": "rahim.ahmed@gmail.com",
+        "name": "Rahim Ahmed",
+        "submittedAt": "2026-10-25T22:11:29.018Z",
+        "phone": "01712345678",
+        "address": "Dhaka, Bangladesh"
+      }
+    ],
+    "redirectHistory": [
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/number/rokib001_2gunyq?vid=test_visitor_001",
+        "message": "",
+        "seq": 1,
+        "timestamp": "2026-10-25T22:11:56.300Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/number/rokib001_2gunyq?vid=test_visitor_001",
+        "message": "",
+        "seq": 2,
+        "timestamp": "2026-10-25T22:11:57.401Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/number/rokib001_2gunyq?vid=test_visitor_001",
+        "message": "",
+        "seq": 3,
+        "timestamp": "2026-10-25T22:11:57.631Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/number/rokib001_2gunyq?vid=test_visitor_001",
+        "message": "",
+        "seq": 4,
+        "timestamp": "2026-10-25T22:11:57.873Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/mail/rokib001_jf23eu?vid=test_visitor_001",
+        "message": "",
+        "seq": 5,
+        "timestamp": "2026-10-25T22:11:58.302Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/mail/rokib001_jf23eu?vid=test_visitor_001",
+        "message": "",
+        "seq": 6,
+        "timestamp": "2026-10-25T22:11:58.790Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/mail/rokib001_jf23eu?vid=test_visitor_001",
+        "message": "",
+        "seq": 7,
+        "timestamp": "2026-10-25T22:11:59.029Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/code/rokib001_ex55qb?vid=test_visitor_001",
+        "message": "",
+        "seq": 8,
+        "timestamp": "2026-10-25T22:12:01.122Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/code/rokib001_ex55qb?vid=test_visitor_001",
+        "message": "",
+        "seq": 9,
+        "timestamp": "2026-10-25T22:12:01.864Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/code/rokib001_ex55qb?vid=test_visitor_001",
+        "message": "",
+        "seq": 10,
+        "timestamp": "2026-10-25T22:12:02.091Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/code/rokib001_ex55qb?vid=test_visitor_001",
+        "message": "",
+        "seq": 11,
+        "timestamp": "2026-10-25T22:12:02.857Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/code/rokib001_ex55qb?vid=test_visitor_001",
+        "message": "",
+        "seq": 12,
+        "timestamp": "2026-10-25T22:12:03.226Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/code/rokib001_ex55qb?vid=test_visitor_001",
+        "message": "",
+        "seq": 13,
+        "timestamp": "2026-10-25T22:12:03.545Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/mail/rokib001_jf23eu?vid=test_visitor_001",
+        "message": "",
+        "seq": 14,
+        "timestamp": "2026-10-25T23:47:41.427Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/code/rokib001_ex55qb?vid=test_visitor_001",
+        "message": "",
+        "seq": 15,
+        "timestamp": "2026-10-25T23:47:45.877Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/mail/rokib001_jf23eu?vid=test_visitor_001",
+        "message": "",
+        "seq": 16,
+        "timestamp": "2026-10-25T23:47:53.103Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/number/rokib001_2gunyq?vid=test_visitor_001",
+        "message": "",
+        "seq": 17,
+        "timestamp": "2026-10-26T00:09:44.605Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/mail/rokib001_jf23eu?vid=test_visitor_001",
+        "message": "",
+        "seq": 18,
+        "timestamp": "2026-10-26T00:09:46.019Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:3000/invite/rokib001_9f4bup?vid=test_visitor_001",
+        "message": "",
+        "seq": 19,
+        "timestamp": "2026-10-26T00:40:51.371Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/number/rokib001_2gunyq?vid=test_visitor_001",
+        "message": "",
+        "seq": 20,
+        "timestamp": "2026-10-26T01:24:46.070Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/code/rokib001_ex55qb?vid=test_visitor_001",
+        "message": "",
+        "seq": 21,
+        "timestamp": "2026-10-26T01:33:59.286Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/code/rokib001_ex55qb?vid=test_visitor_001",
+        "message": "",
+        "seq": 22,
+        "timestamp": "2026-10-26T01:34:00.130Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/code/rokib001_ex55qb?vid=test_visitor_001",
+        "message": "",
+        "seq": 23,
+        "timestamp": "2026-10-26T02:28:32.879Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/code/rokib001_ex55qb?vid=test_visitor_001",
+        "message": "",
+        "seq": 24,
+        "timestamp": "2026-10-26T02:28:33.775Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/Click/rokib001_tpb88f/rokib001_wvw8qh?vid=test_visitor_001",
+        "message": "",
+        "seq": 25,
+        "timestamp": "2026-10-26T03:11:46.763Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/Click/rokib001_tpb88f/rokib001_wvw8qh?vid=test_visitor_001",
+        "message": "",
+        "seq": 26,
+        "timestamp": "2026-10-26T04:22:45.155Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/number/rokib001_2gunyq?vid=test_visitor_001",
+        "message": "",
+        "seq": 27,
+        "timestamp": "2026-10-26T04:23:06.861Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/number/rokib001_2gunyq?vid=test_visitor_001",
+        "message": "",
+        "seq": 28,
+        "timestamp": "2026-10-26T04:23:07.038Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/number/rokib001_2gunyq?vid=test_visitor_001",
+        "message": "",
+        "seq": 29,
+        "timestamp": "2026-10-26T04:23:07.223Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/Click/rokib001_tpb88f/rokib001_wvw8qh?vid=test_visitor_001",
+        "message": "",
+        "seq": 30,
+        "timestamp": "2026-10-26T04:27:25.800Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/Click/rokib001_tpb88f/rokib001_wvw8qh?vid=test_visitor_001",
+        "message": "",
+        "seq": 31,
+        "timestamp": "2026-10-26T04:46:52.984Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/number/rokib001_2gunyq?vid=test_visitor_001",
+        "message": "",
+        "seq": 32,
+        "timestamp": "2026-10-26T04:46:56.638Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:3000/invite/rokib001_9f4bup?vid=test_visitor_001",
+        "message": "",
+        "seq": 33,
+        "timestamp": "2026-10-26T04:46:58.339Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/mail/rokib001_jf23eu?vid=test_visitor_001",
+        "message": "",
+        "seq": 34,
+        "timestamp": "2026-10-26T07:22:27.448Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/number/rokib001_2gunyq?vid=test_visitor_001",
+        "message": "",
+        "seq": 35,
+        "timestamp": "2026-10-26T07:22:28.731Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/Click/rokib001_tpb88f/rokib001_wvw8qh?vid=test_visitor_001",
+        "message": "",
+        "seq": 36,
+        "timestamp": "2026-10-26T07:22:32.235Z"
+      }
+    ],
+    "baseCode": "test1",
+    "trackingCode": "rokib001_test1",
+    "currentUrl": "http://localhost:5174/reply/Click/rokib001_tpb88f/rokib001_wvw8qh?vid=test_visitor_001",
+    "_id": "s_test_001_9ab58dd0",
+    "hiddenForAll": false,
+    "entryUrl": "test1",
+    "formData": {
+      "email": "rahim.ahmed@gmail.com",
+      "name": "Rahim Ahmed",
+      "phone": "01712345678",
+      "address": "Dhaka, Bangladesh"
+    },
+    "status": "Offline",
+    "deviceType": "Desktop",
+    "isLive": false,
+    "collectedTypes": [
+      "session_init",
+      "form_submit"
+    ],
+    "lockedKeys": [
+      "name",
+      "email",
+      "phone",
+      "address"
+    ],
+    "updated_at": "2026-10-26T07:22:32.236Z",
+    "linkId": null,
+    "ipHistory": [
+      {
+        "timestamp": "2026-10-25T22:11:29.018Z",
+        "ip": "103.108.45.12"
+      }
+    ],
+    "identitySource": "test_seed",
+    "ip": "103.108.45.12",
+    "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0",
+    "commandSeq": 36,
+    "lastCommand": "navigate",
+    "lastCommandUrl": "http://localhost:5174/reply/Click/rokib001_tpb88f/rokib001_wvw8qh?vid=test_visitor_001",
+    "lastMessage": "",
+    "pendingCommand": {
+      "action": "navigate",
+      "url": "http://localhost:5174/reply/Click/rokib001_tpb88f/rokib001_wvw8qh?vid=test_visitor_001",
+      "message": "",
+      "seq": 36,
+      "timestamp": "2026-10-26T07:22:32.236Z",
+      "expiresAt": "2026-10-26T07:23:32.236Z"
+    }
+  },
+  {
+    "timestamp": "2026-10-25T22:11:29.018Z",
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "lastActivity": "2026-10-26T00:59:20.508Z",
+    "visitorId": "test_visitor_002",
+    "created_at": "2026-10-25T22:11:29.018Z",
+    "clicks": 5,
+    "submissions": [
+      {
+        "email": "fatima.khan@yahoo.com",
+        "name": "Fatima Khan",
+        "submittedAt": "2026-10-25T22:11:29.018Z",
+        "phone": "01898765432"
+      }
+    ],
+    "redirectHistory": [
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/code/rokib001_ex55qb?vid=test_visitor_002",
+        "message": "",
+        "seq": 1,
+        "timestamp": "2026-10-26T00:46:50.781Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/code/rokib001_ex55qb?vid=test_visitor_002",
+        "message": "",
+        "seq": 2,
+        "timestamp": "2026-10-26T00:59:20.508Z"
+      }
+    ],
+    "baseCode": "test2",
+    "trackingCode": "rokib001_test2",
+    "currentUrl": "http://localhost:5174/reply/recovery/code/rokib001_ex55qb?vid=test_visitor_002",
+    "_id": "s_test_002_9c63f6f8",
+    "hiddenForAll": false,
+    "entryUrl": "test2",
+    "formData": {
+      "email": "fatima.khan@yahoo.com",
+      "name": "Fatima Khan",
+      "phone": "01898765432"
+    },
+    "status": "Offline",
+    "deviceType": "Mobile",
+    "isLive": false,
+    "collectedTypes": [
+      "session_init",
+      "form_submit"
+    ],
+    "lockedKeys": [
+      "name",
+      "email",
+      "phone"
+    ],
+    "updated_at": "2026-10-26T00:59:20.511Z",
+    "linkId": null,
+    "ipHistory": [
+      {
+        "timestamp": "2026-10-25T22:11:29.018Z",
+        "ip": "103.108.45.99"
+      }
+    ],
+    "identitySource": "test_seed",
+    "ip": "103.108.45.99",
+    "browser": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 Mobile/15E148 Safari/604.1",
+    "commandSeq": 2,
+    "lastCommand": "navigate",
+    "lastCommandUrl": "http://localhost:5174/reply/recovery/code/rokib001_ex55qb?vid=test_visitor_002",
+    "lastMessage": "",
+    "pendingCommand": {
+      "action": "navigate",
+      "url": "http://localhost:5174/reply/recovery/code/rokib001_ex55qb?vid=test_visitor_002",
+      "message": "",
+      "seq": 2,
+      "timestamp": "2026-10-26T00:59:20.511Z",
+      "expiresAt": "2026-10-26T01:00:20.511Z"
+    }
+  },
+  {
+    "timestamp": "2026-10-25T22:11:29.018Z",
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "lastActivity": "2026-10-26T00:47:03.431Z",
+    "visitorId": "test_visitor_003",
+    "created_at": "2026-10-25T22:11:29.018Z",
+    "clicks": 20,
+    "submissions": [
+      {
+        "email": "karim.hossain@outlook.com",
+        "name": "Karim Hossain",
+        "submittedAt": "2026-10-25T22:11:29.018Z",
+        "phone": "01987654321",
+        "address": "Chattogram, Bangladesh"
+      }
+    ],
+    "redirectHistory": [
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/mail/rokib001_jf23eu?vid=test_visitor_003",
+        "message": "",
+        "seq": 1,
+        "timestamp": "2026-10-25T22:13:18.718Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/number/rokib001_2gunyq?vid=test_visitor_003",
+        "message": "",
+        "seq": 2,
+        "timestamp": "2026-10-25T22:13:20.283Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/code/rokib001_ex55qb?vid=test_visitor_003",
+        "message": "",
+        "seq": 3,
+        "timestamp": "2026-10-25T22:13:21.536Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/code/rokib001_ex55qb?vid=test_visitor_003",
+        "message": "",
+        "seq": 4,
+        "timestamp": "2026-10-25T22:13:21.585Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:3000/invite/rokib001_9f4bup?vid=test_visitor_003",
+        "message": "",
+        "seq": 5,
+        "timestamp": "2026-10-25T22:23:58.195Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/mail/rokib001_jf23eu?vid=test_visitor_003",
+        "message": "",
+        "seq": 6,
+        "timestamp": "2026-10-25T22:24:00.155Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/number/rokib001_2gunyq?vid=test_visitor_003",
+        "message": "",
+        "seq": 7,
+        "timestamp": "2026-10-25T22:24:01.465Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/code/rokib001_ex55qb?vid=test_visitor_003",
+        "message": "",
+        "seq": 8,
+        "timestamp": "2026-10-25T23:03:14.075Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/recovery/number/rokib001_2gunyq?vid=test_visitor_003",
+        "message": "",
+        "seq": 9,
+        "timestamp": "2026-10-25T23:26:32.644Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/Click/rokib001_tpb88f/rokib001_wvw8qh?vid=test_visitor_003",
+        "message": "",
+        "seq": 10,
+        "timestamp": "2026-10-25T23:41:35.948Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/Click/rokib001_tpb88f/rokib001_wvw8qh?vid=test_visitor_003",
+        "message": "",
+        "seq": 11,
+        "timestamp": "2026-10-25T23:46:29.782Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:5174/reply/Click/rokib001_tpb88f/rokib001_wvw8qh?vid=test_visitor_003",
+        "message": "",
+        "seq": 12,
+        "timestamp": "2026-10-25T23:46:30.968Z"
+      },
+      {
+        "action": "navigate",
+        "url": "http://localhost:3000/invite/rokib001_9f4bup?vid=test_visitor_003",
+        "message": "",
+        "seq": 13,
+        "timestamp": "2026-10-26T00:47:03.431Z"
+      }
+    ],
+    "baseCode": "test3",
+    "trackingCode": "rokib001_test3",
+    "currentUrl": "http://localhost:3000/invite/rokib001_9f4bup?vid=test_visitor_003",
+    "_id": "s_test_003_f09988f2",
+    "hiddenForAll": false,
+    "entryUrl": "test3",
+    "formData": {
+      "email": "karim.hossain@outlook.com",
+      "name": "Karim Hossain",
+      "phone": "01987654321",
+      "address": "Chattogram, Bangladesh"
+    },
+    "status": "Offline",
+    "deviceType": "Tablet",
+    "isLive": false,
+    "collectedTypes": [
+      "session_init",
+      "form_submit"
+    ],
+    "lockedKeys": [
+      "name",
+      "email",
+      "phone",
+      "address"
+    ],
+    "updated_at": "2026-10-26T00:47:03.432Z",
+    "linkId": null,
+    "ipHistory": [
+      {
+        "timestamp": "2026-10-25T22:11:29.018Z",
+        "ip": "103.108.45.200"
+      }
+    ],
+    "identitySource": "test_seed",
+    "ip": "103.108.45.200",
+    "browser": "Mozilla/5.0 (iPad; CPU OS 17_0 like Mac OS X) AppleWebKit/605.1.15 Safari/604.1",
+    "commandSeq": 13,
+    "lastCommand": "navigate",
+    "lastCommandUrl": "http://localhost:3000/invite/rokib001_9f4bup?vid=test_visitor_003",
+    "lastMessage": "",
+    "pendingCommand": {
+      "action": "navigate",
+      "url": "http://localhost:3000/invite/rokib001_9f4bup?vid=test_visitor_003",
+      "message": "",
+      "seq": 13,
+      "timestamp": "2026-10-26T00:47:03.432Z",
+      "expiresAt": "2026-10-26T00:48:03.432Z"
+    }
+  }
+]
