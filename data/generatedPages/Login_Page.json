@@ -1,0 +1,7 @@
+{
+  "id": 1785653686046,
+  "label": "Login Page",
+  "code": "<div style=\"max-width:380px;margin:40px auto;padding:40px 30px;background:#fff;border-radius:16px;box-shadow:0 10px 40px rgba(0,0,0,0.1);font-family:sans-serif;text-align:center\">\n  <div style=\"font-size:40px;margin-bottom:10px\">🔐</div>\n  <h2 style=\"font-size:24px;font-weight:700;color:#1e293b;margin-bottom:6px\">Welcome Back</h2>\n  <p style=\"font-size:14px;color:#94a3b8;margin-bottom:24px\">Sign in to your account</p>\n  <input type=\"email\" placeholder=\"Email address\" style=\"width:100%;padding:12px 16px;border:2px solid #e2e8f0;border-radius:10px;font-size:14px;margin-bottom:12px;outline:none\">\n  <input type=\"password\" placeholder=\"Password\" style=\"width:100%;padding:12px 16px;border:2px solid #e2e8f0;border-radius:10px;font-size:14px;margin-bottom:20px;outline:none\">\n  <button style=\"width:100%;padding:14px;background:linear-gradient(135deg,#667eea,#764ba2);color:#fff;border:none;border-radius:10px;font-size:16px;font-weight:700;cursor:pointer\">Sign In</button>\n  <p style=\"margin-top:16px;font-size:13px;color:#94a3b8\">Forgot password? <a href=\"#\" style=\"color:#667eea\">Reset</a></p>\n</div>",
+  "partition": "landing",
+  "savedAt": "2026-08-02T06:54:46.046Z"
+}
