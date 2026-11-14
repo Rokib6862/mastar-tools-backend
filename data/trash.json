@@ -1,0 +1,55 @@
+[
+  {
+    "_id": "trash_s1794249682216_6cfv1e_u1782700000003_ghi003",
+    "visitorId": "test_1037752373",
+    "trackingCode": "rokib001_7j3xpu",
+    "trackingCodeHistory": [
+      "rokib001_7j3xpu"
+    ],
+    "baseCode": "7j3xpu",
+    "linkId": null,
+    "ip": "::1",
+    "ipHistory": [
+      {
+        "ip": "::1",
+        "timestamp": "2026-11-09T18:41:22.216Z"
+      }
+    ],
+    "browser": "powershell",
+    "deviceType": "Desktop",
+    "entryUrl": "7j3xpu",
+    "currentUrl": "rokib001_7j3xpu",
+    "status": "Offline",
+    "isLive": false,
+    "clicks": 1,
+    "collectedTypes": [
+      "form_submit",
+      "form_submit"
+    ],
+    "submissions": [
+      {
+        "test_field": "test_2038998260",
+        "submittedAt": "2026-11-09T18:41:22.216Z"
+      }
+    ],
+    "formData": {
+      "test_field": "test_2038998260"
+    },
+    "lockedKeys": [
+      "test_field"
+    ],
+    "hiddenBy": [],
+    "hiddenFor": [],
+    "hiddenForAll": false,
+    "redirectHistory": [],
+    "identitySource": "created",
+    "lastActivity": "2026-11-11T16:18:09.216Z",
+    "timestamp": "2026-11-09T18:41:22.216Z",
+    "created_at": "2026-11-09T18:41:22.216Z",
+    "updated_at": "2026-11-11T16:18:09.217Z",
+    "originalId": "s1794249682216_6cfv1e",
+    "deletedBy": "u1782700000003_ghi003",
+    "deletedAt": "2026-11-11T16:18:09.237Z",
+    "permanentlyDeleted": false
+  }
+]
